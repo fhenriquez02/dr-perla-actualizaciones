@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "plataforma": "win32-x64",
-  "sha256": "b6ed3fa06793718f76ad915d29becf749f8f6c6c86855862bb141681de997f1b",
-  "tamano": 5035929,
+  "sha256": "4b8b9959c1d2ef7b53204557495971485da1ee3ca98e9e0b3de66ac78487b2c1",
+  "tamano": 5036894,
   "fecha": "2026-10-29",
-  "notas": "• Evolución con fotos, en su consulta y solo si la usa: Es una herramienta opcional: actívela en Configuración → Mi formato de consulta → Herramientas opcionales. Aparece en la consulta, junto a los antecedentes del paciente, y se abre en otra pestaña sin salir de la consulta.",
-  "firma": "iNoKnZxCfpzQN6roFlbu6mOqnGE+OECN52KGaVip1iqpqjMHZF6lhfAvIFWlriQ90lC7FdBJV2anTQ2NDLHFDw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.5/DR-Perla-1.0.5.drpa"
+  "notas": "• Menú dividido: Consulta y Secretaría: El menú tiene dos partes: Consulta, con todo lo del doctor, y Secretaría, con todo lo de la secretaria. Cada quien ve solo lo que le toca.\n• Citas por orden de llegada: Las citas ya no llevan hora: se da el día y la tanda (mañana, tarde o noche). En el calendario cada tanda muestra la lista de citados, y el día de la cita se atiende por turno de llegada. El mensaje de WhatsApp lo explica al paciente.",
+  "firma": "M1mCvkVTEZGB2aF60K20MWRG1HPjizQhBKYcKnAX6cSj45xhKonh2iZr+R33zlsObXT1G8z+MIJPO0QFCFmwAA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.6/DR-Perla-1.0.6.drpa"
 }
