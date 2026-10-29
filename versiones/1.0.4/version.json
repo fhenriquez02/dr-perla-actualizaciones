@@ -1,0 +1,10 @@
+{
+  "version": "1.0.4",
+  "plataforma": "win32-x64",
+  "sha256": "ccf26adce30e4d81d5b42d3f2a05bdbf763f49f342d3635fad1e991bae039be9",
+  "tamano": 5035058,
+  "fecha": "2026-10-29",
+  "notas": "• Heridas y curaciones con fotos: En la ficha del paciente, \"Heridas y curaciones\" guarda cada curación con fotos, medidas, Wagner y tejido. Muestra cuánto se ha reducido el área y permite comparar dos curaciones lado a lado. Las fotos van cifradas.",
+  "firma": "J+YYB7gffsR2tho3PQHb+gyVODESLt9RL5GHIhYN46jclL3JZ4NmjqztGl0yPF0loKP1g9x2xNnqjhLcavb3Dw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.4/DR-Perla-1.0.4.drpa"
+}
