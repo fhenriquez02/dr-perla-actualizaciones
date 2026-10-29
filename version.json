@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "plataforma": "win32-x64",
-  "sha256": "d00e12fa28a0606b272c33c1388e27f7628026ca015b8c544bad638a98c7f40c",
-  "tamano": 5023685,
+  "sha256": "038475b89807258d45c29fb4f336f4e83cfae6470a4629198dde1e3789ba2f97",
+  "tamano": 5023985,
   "fecha": "2026-10-29",
-  "notas": "• Ventana de novedades: Cada vez que DR. Perla se actualice, verá aquí lo nuevo. La lista completa queda en Ayuda → Novedades.",
-  "firma": "JkIKMkvNfCoh2mM7BF8OouttBmPrzQcBiXyvelqRJlECKWag5La+QkGpJ8wfqLyp71C5OjeAhiG795gq2Q6aAw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.2/DR-Perla-1.0.2.drpa"
+  "notas": "• Cuidado al exportar a Excel: Antes de descargar un reporte o una relación, DR. Perla le recuerda que el archivo tiene datos de pacientes y cómo cuidarlo. Queda anotado en la bitácora quién lo exportó.",
+  "firma": "9jq4QIuWE+/fwS4yFa5vRKnt9stXJPOfSfKF9iEW0HyuwPnSESvSWSTBEJmXwh6QhZlcwJCPA5fJ5554t/iiDg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.3/DR-Perla-1.0.3.drpa"
 }
