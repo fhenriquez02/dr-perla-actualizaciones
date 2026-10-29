@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "plataforma": "win32-x64",
-  "sha256": "ccf26adce30e4d81d5b42d3f2a05bdbf763f49f342d3635fad1e991bae039be9",
-  "tamano": 5035058,
+  "sha256": "b6ed3fa06793718f76ad915d29becf749f8f6c6c86855862bb141681de997f1b",
+  "tamano": 5035929,
   "fecha": "2026-10-29",
-  "notas": "• Heridas y curaciones con fotos: En la ficha del paciente, \"Heridas y curaciones\" guarda cada curación con fotos, medidas, Wagner y tejido. Muestra cuánto se ha reducido el área y permite comparar dos curaciones lado a lado. Las fotos van cifradas.",
-  "firma": "J+YYB7gffsR2tho3PQHb+gyVODESLt9RL5GHIhYN46jclL3JZ4NmjqztGl0yPF0loKP1g9x2xNnqjhLcavb3Dw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.4/DR-Perla-1.0.4.drpa"
+  "notas": "• Evolución con fotos, en su consulta y solo si la usa: Es una herramienta opcional: actívela en Configuración → Mi formato de consulta → Herramientas opcionales. Aparece en la consulta, junto a los antecedentes del paciente, y se abre en otra pestaña sin salir de la consulta.",
+  "firma": "iNoKnZxCfpzQN6roFlbu6mOqnGE+OECN52KGaVip1iqpqjMHZF6lhfAvIFWlriQ90lC7FdBJV2anTQ2NDLHFDw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.5/DR-Perla-1.0.5.drpa"
 }
