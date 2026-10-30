@@ -1,0 +1,10 @@
+{
+  "version": "1.0.12",
+  "plataforma": "win32-x64",
+  "sha256": "d4952f74e8c05daa810514a0061326f71f184518641b7ef5a514eca16fddf9f4",
+  "tamano": 5046534,
+  "fecha": "2026-10-29",
+  "notas": "• Analíticas y Tratamiento, cada uno en su paso: La consulta ahora tiene 5 pasos: Motivo, Examen, Diagnóstico, Analíticas (recomendar analíticas e imágenes) y Tratamiento (receta e indicaciones). Al terminar puede imprimir la receta y las analíticas cada una en su papel.",
+  "firma": "7/aQ7vLEA2ruR66478s9NZ1g4u8ddKhSM2666YbUEF1NwHeynwRKs2Bl1ji6IRYOLutOjnhqQ9InL0UeNsdaBA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.12/DR-Perla-1.0.12.drpa"
+}
