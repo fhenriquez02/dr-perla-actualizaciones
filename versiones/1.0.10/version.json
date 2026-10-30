@@ -1,0 +1,10 @@
+{
+  "version": "1.0.10",
+  "plataforma": "win32-x64",
+  "sha256": "14847bdf54f7aeb5cf720805aaa49f82818ebbc662f909e4af9cdf4a4ef1b082",
+  "tamano": 5044558,
+  "fecha": "2026-10-29",
+  "notas": "• \"Agendar cita\": Donde decía \"Dar una cita\" ahora dice \"Agendar cita\".",
+  "firma": "/XKcBCBXhlKWuEnCnUyXAzVAlBsTzLjOq4oL4prTYwKiYGw/lXMKENpjInEMItdMVM79hHKpP7HaLlxCbqR4BQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.10/DR-Perla-1.0.10.drpa"
+}

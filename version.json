@@ -1,10 +1,10 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "plataforma": "win32-x64",
-  "sha256": "dda03fc77fc37bfb4b4c9eac8c156d05559db41c796a7ec60e796d5d7a15ab40",
-  "tamano": 5044543,
+  "sha256": "14847bdf54f7aeb5cf720805aaa49f82818ebbc662f909e4af9cdf4a4ef1b082",
+  "tamano": 5044558,
   "fecha": "2026-10-29",
-  "notas": "• Inicio más sencillo: Al entrar verá 3 o 4 botones grandes con lo que hace todos los días. Lo demás está en \"Todas las opciones\" y en el menú.\n• ¿Qué sigue?: Al terminar un paso, el programa le muestra el siguiente: registrar al paciente → darle turno o cita → consulta → licencia o certificado → cobrar → próxima cita.\n• Documentos médicos: Nuevo módulo en el menú Consulta para la licencia médica, el certificado, la constancia, el referimiento y las indicaciones, con la lista de lo emitido.",
-  "firma": "97I1ulHESQgScukjDAli898tTmI71LTcx7LPhy5CxFcD/zTKibfWUbUtRVGDZoLtSQGRssYYnHAdl+iw1PQqCQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.9/DR-Perla-1.0.9.drpa"
+  "notas": "• \"Agendar cita\": Donde decía \"Dar una cita\" ahora dice \"Agendar cita\".",
+  "firma": "/XKcBCBXhlKWuEnCnUyXAzVAlBsTzLjOq4oL4prTYwKiYGw/lXMKENpjInEMItdMVM79hHKpP7HaLlxCbqR4BQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.10/DR-Perla-1.0.10.drpa"
 }
