@@ -1,0 +1,10 @@
+{
+  "version": "1.0.13",
+  "plataforma": "win32-x64",
+  "sha256": "5ce92f99ff5950cdcfc0d8735b32fff5dc1c889aa934ab9605d893660e806df7",
+  "tamano": 5046983,
+  "fecha": "2026-10-30",
+  "notas": "• Receta y analíticas, una al lado de la otra: El paso 4 de la consulta tiene dos columnas: a la izquierda la receta y a la derecha las analíticas e imágenes. Cada una tiene abajo su botón \"Imprimir\", así puede imprimir solo la receta cuando no indica analíticas (o solo las analíticas).",
+  "firma": "E1/wYHzi0IYPHExPII5+3qoOzK4mbjPXM9wi9Ao3Hla5EL0jUol4XTZK8MEhgXZJK6AF6YseJbCKnL8DZaMaCg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.13/DR-Perla-1.0.13.drpa"
+}
