@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "plataforma": "win32-x64",
-  "sha256": "6276ed215c1ae64a14fd6f2fd8229ad4bbacb2d396d1e5291deb691be2cbe520",
-  "tamano": 5041705,
+  "sha256": "dda03fc77fc37bfb4b4c9eac8c156d05559db41c796a7ec60e796d5d7a15ab40",
+  "tamano": 5044543,
   "fecha": "2026-10-29",
-  "notas": "• Fotos más fáciles en Evolución con fotos: Al tocar \"+ Nuevo\" ya puede elegir las fotos (📷 Fotos de hoy) y las medidas ahí mismo, y tocar Guardar. Para las evaluaciones siguientes, toque el seguimiento y luego \"+ Nueva evaluación\".",
-  "firma": "IN95X0MP/QrgvgQDefMjJPn76GNL9NoaI7JNK9T3rWAX2jBrqs6i1bjjb6U+l/+gCF5a52W6C0pEatHLYpMTBQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.8/DR-Perla-1.0.8.drpa"
+  "notas": "• Inicio más sencillo: Al entrar verá 3 o 4 botones grandes con lo que hace todos los días. Lo demás está en \"Todas las opciones\" y en el menú.\n• ¿Qué sigue?: Al terminar un paso, el programa le muestra el siguiente: registrar al paciente → darle turno o cita → consulta → licencia o certificado → cobrar → próxima cita.\n• Documentos médicos: Nuevo módulo en el menú Consulta para la licencia médica, el certificado, la constancia, el referimiento y las indicaciones, con la lista de lo emitido.",
+  "firma": "97I1ulHESQgScukjDAli898tTmI71LTcx7LPhy5CxFcD/zTKibfWUbUtRVGDZoLtSQGRssYYnHAdl+iw1PQqCQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.9/DR-Perla-1.0.9.drpa"
 }
