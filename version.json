@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "plataforma": "win32-x64",
-  "sha256": "1f46cd23c23d0c574719d6aefc11957bd2c2d967fd84d0844a15074b1ca4fb8a",
-  "tamano": 5041295,
+  "sha256": "6276ed215c1ae64a14fd6f2fd8229ad4bbacb2d396d1e5291deb691be2cbe520",
+  "tamano": 5041705,
   "fecha": "2026-10-29",
-  "notas": "• Citas por correo: Además de WhatsApp, la confirmación y el recordatorio de la cita se pueden enviar por correo. El doctor lo configura en Configuración → Correo para citas, y puede hacer que la confirmación y el recordatorio del día antes salgan solos.",
-  "firma": "kwnaavTFBlYJ4zmNWhKOzPn9BnXTWAZzPJTJcC38w1zNcv8FZEwbgli+GHJgmyG+UuwgnIMFbmfxYduKX/0kCg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.7/DR-Perla-1.0.7.drpa"
+  "notas": "• Fotos más fáciles en Evolución con fotos: Al tocar \"+ Nuevo\" ya puede elegir las fotos (📷 Fotos de hoy) y las medidas ahí mismo, y tocar Guardar. Para las evaluaciones siguientes, toque el seguimiento y luego \"+ Nueva evaluación\".",
+  "firma": "IN95X0MP/QrgvgQDefMjJPn76GNL9NoaI7JNK9T3rWAX2jBrqs6i1bjjb6U+l/+gCF5a52W6C0pEatHLYpMTBQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.8/DR-Perla-1.0.8.drpa"
 }
