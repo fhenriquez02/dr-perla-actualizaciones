@@ -1,10 +1,10 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "plataforma": "win32-x64",
-  "sha256": "14847bdf54f7aeb5cf720805aaa49f82818ebbc662f909e4af9cdf4a4ef1b082",
-  "tamano": 5044558,
+  "sha256": "fd9f0471de50556fb142bf85e383e04fc4fd97cd876a72efaadba1daa719b592",
+  "tamano": 5045788,
   "fecha": "2026-10-29",
-  "notas": "• \"Agendar cita\": Donde decía \"Dar una cita\" ahora dice \"Agendar cita\".",
-  "firma": "/XKcBCBXhlKWuEnCnUyXAzVAlBsTzLjOq4oL4prTYwKiYGw/lXMKENpjInEMItdMVM79hHKpP7HaLlxCbqR4BQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.10/DR-Perla-1.0.10.drpa"
+  "notas": "• Receta, Analíticas e Imágenes por separado: En el paso Plan de la consulta, la receta (medicamentos), las analíticas y las imágenes están cada una en su recuadro. Si una analítica o imagen no está en la lista, escríbala en \"Otra…\": queda marcada y guardada en la lista para la próxima vez.",
+  "firma": "Vtt07yhxxFNyGSaZUM8J1CQ6OYtGD8QTjN6VPBP1epZ8SZwc56KkVn3IhgfHhYsQ9AXxaqMUm16yACDTX9GYAw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.11/DR-Perla-1.0.11.drpa"
 }
