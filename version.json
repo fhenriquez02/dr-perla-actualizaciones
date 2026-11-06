@@ -1,10 +1,10 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "plataforma": "win32-x64",
-  "sha256": "cf455e65d8ee06dc86d773dc0d3725181569adf8a12e45c043980db97125fb78",
-  "tamano": 5211536,
+  "sha256": "2cdaaed6b64fab2ad0e18f26b93559776fe32f6c00f9abac621d12ea5605294f",
+  "tamano": 5212070,
   "fecha": "2026-11-06",
-  "notas": "• Aviso cuando se usa la cuenta de soporte: En su Inicio le sale un aviso cada vez que la cuenta de soporte entra al programa, hace cambios en los usuarios o le cambian la contraseña (dice cuándo, desde qué PC y con qué usuario de Windows). Queda ahí hasta que usted toque \"Visto\". Si usted no llamó al soporte, cambie su contraseña y avísenos.\n• Aviso si el disco no está cifrado: Si el disco de la PC principal no tiene BitLocker, le sale un aviso en su Inicio: si se roban la PC, podrían leer los datos. Pídale al técnico que lo active.",
-  "firma": "Q7l9UY4ALh3L7RatgBfgaF4Jhja++STRP1J9AA9Ydc1HgXOPoXD3k4gIpVYTgPD3p5mV0lXJb3VeU3Znen2IDg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.37/DR-Perla-1.0.37.drpa"
+  "notas": "• Cédulas que no cuadran: Si el último número de la cédula no cuadra con los demás, el programa ya no la rechaza: le pide revisarla y, si la copió tal cual de la cédula del paciente, toque \"Está bien escrita, guardar así\". Hay cédulas reales, sobre todo viejas, que no pasan la comprobación.",
+  "firma": "piWgPsoHX4H0Pj2xAJmwKoMLeixZkv7oKm7At3A3omriP82pDkLKPCsKFP1JDvY4MXHnaQ0XfX49OUdzc8AlCw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.38/DR-Perla-1.0.38.drpa"
 }

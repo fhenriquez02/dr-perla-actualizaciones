@@ -1,0 +1,10 @@
+{
+  "version": "1.0.38",
+  "plataforma": "win32-x64",
+  "sha256": "2cdaaed6b64fab2ad0e18f26b93559776fe32f6c00f9abac621d12ea5605294f",
+  "tamano": 5212070,
+  "fecha": "2026-11-06",
+  "notas": "• Cédulas que no cuadran: Si el último número de la cédula no cuadra con los demás, el programa ya no la rechaza: le pide revisarla y, si la copió tal cual de la cédula del paciente, toque \"Está bien escrita, guardar así\". Hay cédulas reales, sobre todo viejas, que no pasan la comprobación.",
+  "firma": "piWgPsoHX4H0Pj2xAJmwKoMLeixZkv7oKm7At3A3omriP82pDkLKPCsKFP1JDvY4MXHnaQ0XfX49OUdzc8AlCw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.38/DR-Perla-1.0.38.drpa"
+}
