@@ -1,0 +1,10 @@
+{
+  "version": "1.0.36",
+  "plataforma": "win32-x64",
+  "sha256": "f887b6c95179b64d4c103f02df6bc9799b2b3ffcb42e2ec4e08123915e303816",
+  "tamano": 5209105,
+  "fecha": "2026-11-06",
+  "notas": "• Conexión segura (HTTPS): Nuevo en Configuración: \"Conexión segura (HTTPS)\". Cifra todo lo que viaja entre las PC del consultorio. Paso 1: en cada PC, descargue el archivo y ábralo (Windows pregunta si instala el certificado: toque Sí). Paso 2: active. Los accesos directos de siempre siguen funcionando y pasan solos a https. El televisor de turnos sigue igual.",
+  "firma": "nq8YASbvvFB19ylEaIuFef1DPEzlauozpTCzJuyybRzGu6fYvL4Ryt2XrQ37t0idnGDQhwJBqfrWbCs/QsMHBg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.36/DR-Perla-1.0.36.drpa"
+}
