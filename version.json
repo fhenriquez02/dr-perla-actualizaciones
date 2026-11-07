@@ -1,10 +1,10 @@
 {
-  "version": "1.0.43",
+  "version": "1.0.44",
   "plataforma": "win32-x64",
-  "sha256": "e527b08f1b99aea363e8a1310553fb1e44dba79922f4716f71ba5abeab73b50a",
-  "tamano": 5222155,
+  "sha256": "bdda85f19b8a8d89da148d661bc9efd6b64046c2572ff8bba1edafefa5152c1c",
+  "tamano": 5222964,
   "fecha": "2026-11-07",
-  "notas": "• Ayuda sin salir de lo que está haciendo: El botón ? (o la tecla F1) ahora abre un globo pequeño: \"¿Qué quiere saber?\". Escriba su pregunta o toque una de las sugerencias de esa pantalla, y ahí mismo ve los pasos. La consulta, la caja o lo que tenga abierto se queda igual. Si no está en el manual, toque \"Enviarnos la pregunta\" y nos llega por Comentar.",
-  "firma": "SKpmIlUPwxUsS31h0sHUn908z4n/IFo2RQrOq5+NUvSIQ9g9OTwlxV5fqYyM2puzQq/4yPbiFZ9XgpTt0g43BQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.43/DR-Perla-1.0.43.drpa"
+  "notas": "• Cobrar al llegar, en menos pasos: Si en su consultorio se cobra antes de la consulta: al tocar \"Registrar llegada y dar turno\", el programa la lleva directo a Caja con el paciente ya elegido y le dice cuánto cobrarle. Al terminar, \"← Volver a la agenda\". En la sala de espera, \"💵 Falta pagar · Cobrar →\" también la lleva a cobrar.\n• Nadie pasa sin pagar sin que usted lo sepa: Si alguien intenta pasar a consulta a un paciente que todavía no ha pagado (con \"Pasar\", \"Llamar al siguiente\" o desde Mi consulta), el programa pregunta antes.\n• Caja más limpia: Los ajustes de \"Se cobra\" y \"El precio llega\" ahora están guardados en \"⚙ Cómo se cobra aquí\", para que no ocupen la pantalla todos los días.",
+  "firma": "pGPRgyJmQTWued5ydnEhzFik4VCbQut2XenJik8iG6iyVHLNmL38mtNgBQksH6hJ1+/Y5zDvHD2HTsRPI7t8Dg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.44/DR-Perla-1.0.44.drpa"
 }
