@@ -1,10 +1,10 @@
 {
-  "version": "1.0.42",
+  "version": "1.0.43",
   "plataforma": "win32-x64",
-  "sha256": "b645c8cb25fca848ab651258948654a62bd5902a648bcb875dbcff5ae6cbd54e",
-  "tamano": 5221259,
+  "sha256": "e527b08f1b99aea363e8a1310553fb1e44dba79922f4716f71ba5abeab73b50a",
+  "tamano": 5222155,
   "fecha": "2026-11-07",
-  "notas": "• ¿Desde cuándo?: Cuando marca Sí en un síntoma, aparece \"¿Desde cuándo?\". Toque y elija (Hoy, Ayer, 3 días, 1 semana, 1 mes…) o escríbalo. En el resumen de la consulta sale \"Fiebre (hace 3 días)\".",
-  "firma": "eSYnkzG9ypTJ6uYhvUDVw1BzCgWsvxhCQfbx8CLQNTgwhjqisZ0F2hri25mPtCQLGrMFGQZu41lhVUFc9lXQDA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.42/DR-Perla-1.0.42.drpa"
+  "notas": "• Ayuda sin salir de lo que está haciendo: El botón ? (o la tecla F1) ahora abre un globo pequeño: \"¿Qué quiere saber?\". Escriba su pregunta o toque una de las sugerencias de esa pantalla, y ahí mismo ve los pasos. La consulta, la caja o lo que tenga abierto se queda igual. Si no está en el manual, toque \"Enviarnos la pregunta\" y nos llega por Comentar.",
+  "firma": "SKpmIlUPwxUsS31h0sHUn908z4n/IFo2RQrOq5+NUvSIQ9g9OTwlxV5fqYyM2puzQq/4yPbiFZ9XgpTt0g43BQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.43/DR-Perla-1.0.43.drpa"
 }
