@@ -1,0 +1,10 @@
+{
+  "version": "1.0.45",
+  "plataforma": "win32-x64",
+  "sha256": "53083b7ece09b9c41a0fdfa95f94374d20917666b86dd45e390b3b20d77a96ce",
+  "tamano": 5225114,
+  "fecha": "2026-11-07",
+  "notas": "• Copias de seguridad con su propia clave: En Copias de seguridad toque \"Poner la clave de las copias\". Desde ese momento cada copia (también las automáticas de cada día) se guarda con esa clave, y para restaurarla hay que escribir la clave con que se guardó. Anótela y guárdela lejos de la PC: sin ella no se puede restaurar y nadie la puede recuperar. Las copias de antes siguen restaurándose con su contraseña de doctor.\n• Exportaciones a Excel más seguras: Al exportar comentarios, reportes, la caja o una relación de ARS, un texto que empiece como fórmula de Excel (con =, +, - o @) se guarda como texto y no se ejecuta.",
+  "firma": "sXrU1yQuLj5KYSd+9DA299P7HnpqKvkQtKOqYRhSO4nqtiwONT0Jbqr9vP+j/NHbynMWBIvRUToLK131nRBXDg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.45/DR-Perla-1.0.45.drpa"
+}
