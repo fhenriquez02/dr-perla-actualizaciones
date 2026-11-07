@@ -1,10 +1,10 @@
 {
-  "version": "1.0.50",
+  "version": "1.0.51",
   "plataforma": "win32-x64",
-  "sha256": "679eb54ef2fa16f4115a14dfc3299a4c7cdf192e29550181a8713b2792dbdf49",
-  "tamano": 5230874,
+  "sha256": "cdf2c6f9ebcfc6d486ecf83f91af776bfa85ef8779eda0265691209c8e602e89",
+  "tamano": 5231991,
   "fecha": "2026-11-07",
-  "notas": "• Resultados y analíticas dentro de la consulta: En la consulta, a la izquierda, la tarjeta \"Resultados y analíticas\" muestra lo que usted indicó y todavía no ha llegado (con su fecha límite) y los resultados que ya tiene el paciente. Toque uno y se abre encima de la consulta, con los valores, el anterior, el informe y los archivos. Para volver, \"Volver a la consulta\".\n• El paciente trajo los resultados: En la misma tarjeta toque \"Lo trajo: registrar\" junto a la analítica pendiente, escriba los valores (o adjunte el PDF) y guarde. Se abre el resultado para revisarlo y marcarlo revisado, sin salir de la consulta.",
-  "firma": "49CWqKS1Wu+liVYksPCKFeXDK9PidLCdDbdwxHHMVXVsPGz5X8/BGwIKvpNSl76gf5sNUJ/LRuidxJ5bkSiaCg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.50/DR-Perla-1.0.50.drpa"
+  "notas": "• La consulta cabe mejor en la pantalla: El nombre del paciente, la alergia y los botones \"Guardar y terminar\" y \"Terminar e imprimir\" se quedan fijos arriba aunque baje. La columna de la izquierda (antecedentes, resultados, consultas anteriores) se mueve sola, sin alargar la página.\n• Menos cosas que bajar: En Antecedentes solo sale lo que tiene datos; lo vacío va en una línea. Las analíticas e imágenes son botones que se tocan para marcarlos (se ponen morados con ✓). El plan y la nota privada van uno al lado del otro.\n• Consultas anteriores sin salir: Toque una consulta anterior en la izquierda y se abre encima de la de hoy. \"Volver a la consulta de hoy\" la cierra.",
+  "firma": "IC70fwW/ksVTRJaEEAuY8Wy6s9UNQSG5vUhoMomzWif6vmqAbmVSS7dcoKcGW5dpHaGM0tcoh+K/Lm5gs86nBw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.51/DR-Perla-1.0.51.drpa"
 }
