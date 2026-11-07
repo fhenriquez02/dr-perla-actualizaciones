@@ -1,10 +1,10 @@
 {
-  "version": "1.0.52",
+  "version": "1.0.53",
   "plataforma": "win32-x64",
-  "sha256": "0e05c8b26cbb527cfb8bd6346c2d27a2df197e29c04cf874915c6c72d143c0b5",
-  "tamano": 5232377,
+  "sha256": "8381bff2f3c4e59a6eba0ef1b30c594413a24d9b69441a34d872f0a80115e892",
+  "tamano": 5233186,
   "fecha": "2026-11-07",
-  "notas": "• La columna de la izquierda, más clara: Ya no tiene su propia barra para bajar: todo baja junto con la página, así no queda nada escondido. Cada consulta anterior y cada resultado dice \"Ver ›\" para que se sepa que se puede abrir.\n• Consultas anteriores con el diagnóstico escrito: Cada consulta anterior muestra la fecha, el motivo y el nombre del diagnóstico (no solo el código). Salen las últimas 3; el botón \"Ver las … consultas más viejas\" muestra las demás.",
-  "firma": "jcXTQ99lMmH0xWnaxzy9vpvZqI3UXE20ukJOs5RkJnT+aQ5Q6iRVFg+Wi4PnFo5QDw+lb/KtD/N6BjfNTs6VAg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.52/DR-Perla-1.0.52.drpa"
+  "notas": "• En la consulta, solo lo último: A la izquierda se ve el último resultado, la última consulta y el último seguimiento con fotos. Para ver los demás toque \"Otros resultados\", \"Otras consultas\" u \"Otros seguimientos\": se abre la lista encima de la consulta y de ahí abre el que quiera.\n• Analíticas sin resultado: Sale la más urgente (las vencidas primero) con su botón \"Lo trajo\". Las demás, en \"Otras sin resultado\".",
+  "firma": "kJqvd3/x2TQ/M4vIIEKqf42CstOCeMpW2lrvzdpO1xTs6HE8KsrlyGY+br886vre+E05BkWQDxpTqp/WkxguCg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.53/DR-Perla-1.0.53.drpa"
 }
