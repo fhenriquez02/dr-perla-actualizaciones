@@ -1,10 +1,10 @@
 {
-  "version": "1.0.51",
+  "version": "1.0.52",
   "plataforma": "win32-x64",
-  "sha256": "cdf2c6f9ebcfc6d486ecf83f91af776bfa85ef8779eda0265691209c8e602e89",
-  "tamano": 5231991,
+  "sha256": "0e05c8b26cbb527cfb8bd6346c2d27a2df197e29c04cf874915c6c72d143c0b5",
+  "tamano": 5232377,
   "fecha": "2026-11-07",
-  "notas": "• La consulta cabe mejor en la pantalla: El nombre del paciente, la alergia y los botones \"Guardar y terminar\" y \"Terminar e imprimir\" se quedan fijos arriba aunque baje. La columna de la izquierda (antecedentes, resultados, consultas anteriores) se mueve sola, sin alargar la página.\n• Menos cosas que bajar: En Antecedentes solo sale lo que tiene datos; lo vacío va en una línea. Las analíticas e imágenes son botones que se tocan para marcarlos (se ponen morados con ✓). El plan y la nota privada van uno al lado del otro.\n• Consultas anteriores sin salir: Toque una consulta anterior en la izquierda y se abre encima de la de hoy. \"Volver a la consulta de hoy\" la cierra.",
-  "firma": "IC70fwW/ksVTRJaEEAuY8Wy6s9UNQSG5vUhoMomzWif6vmqAbmVSS7dcoKcGW5dpHaGM0tcoh+K/Lm5gs86nBw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.51/DR-Perla-1.0.51.drpa"
+  "notas": "• La columna de la izquierda, más clara: Ya no tiene su propia barra para bajar: todo baja junto con la página, así no queda nada escondido. Cada consulta anterior y cada resultado dice \"Ver ›\" para que se sepa que se puede abrir.\n• Consultas anteriores con el diagnóstico escrito: Cada consulta anterior muestra la fecha, el motivo y el nombre del diagnóstico (no solo el código). Salen las últimas 3; el botón \"Ver las … consultas más viejas\" muestra las demás.",
+  "firma": "jcXTQ99lMmH0xWnaxzy9vpvZqI3UXE20ukJOs5RkJnT+aQ5Q6iRVFg+Wi4PnFo5QDw+lb/KtD/N6BjfNTs6VAg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.52/DR-Perla-1.0.52.drpa"
 }
