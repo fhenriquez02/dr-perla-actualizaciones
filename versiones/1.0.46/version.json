@@ -1,0 +1,10 @@
+{
+  "version": "1.0.46",
+  "plataforma": "win32-x64",
+  "sha256": "a4aba3914238b8e203a47e34a0ad81d08829d565347aff06b59cf766e0d42699",
+  "tamano": 5225948,
+  "fecha": "2026-11-07",
+  "notas": "• Su secretaria puede ver el historial, si usted quiere: En Configuración → Usuarios y permisos, en \"Lo clínico\", active \"Ver el historial de consultas del paciente (solo leer)\" a la persona de confianza. Verá las consultas anteriores, el resumen del historial y los signos vitales, pero no podrá cambiar nada ni hacer consultas. Se puede activar al crear el usuario o después, y quitar cuando quiera.\n• Más cuidado con lo clínico: Las notas que usted escribe en las órdenes de laboratorio ya no las ve quien no tiene permiso clínico, y los documentos médicos de la ficha solo se abren con ese permiso.",
+  "firma": "JG54R9hsYkUq/bSFKQKgTRj4pSSTAKfQxw38Hwz4b6J8pThxikY7vPEvIrcTwqQhlgBgn/Vb8detTzSL7W/HBg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.46/DR-Perla-1.0.46.drpa"
+}
