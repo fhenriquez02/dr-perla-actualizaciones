@@ -1,10 +1,10 @@
 {
-  "version": "1.0.47",
+  "version": "1.0.48",
   "plataforma": "win32-x64",
-  "sha256": "6f8c4eb18f512e1c4bb26f18053bc190cec2ef00b11c8956766a6bf36f0e028b",
-  "tamano": 5226171,
+  "sha256": "51fa1de0c06b80ca4d8f0b4213a134008fcf473054466069f82a284a2906ee5f",
+  "tamano": 5226893,
   "fecha": "2026-11-07",
-  "notas": "• La contraseña del correo siempre viaja cifrada: Al enviar correos (recordatorios, códigos, resultados) el programa ahora exige una conexión cifrada antes de mandar la contraseña del correo del consultorio. Con Gmail, Outlook y la mayoría de los correos no cambia nada. Si su correo deja de enviar, avísenos: su servidor no cifra la conexión.",
-  "firma": "sMzMHGcW9VHgIr1MhrV5cXKvTwTCWWGjliGMxWuWwQC33hdDEZWvdriSx6xnNS97mNDLzQBxLEEV9h52zcfNAA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.47/DR-Perla-1.0.47.drpa"
+  "notas": "• Ajuste del correo cifrado: Si el servidor de correo está en esta misma PC (poco común), funciona como antes: la contraseña no sale a la red. Para cualquier otro servidor se sigue exigiendo conexión cifrada.",
+  "firma": "9W8FJHXwE7/d8pk215YxfdhHg8UMkwWzSEjJyv8FbKD7/eii3eMJxEKJqWQZ5pAuPPIF386WAzaJkrgpjkXfBA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.48/DR-Perla-1.0.48.drpa"
 }
