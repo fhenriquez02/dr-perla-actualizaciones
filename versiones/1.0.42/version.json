@@ -1,0 +1,10 @@
+{
+  "version": "1.0.42",
+  "plataforma": "win32-x64",
+  "sha256": "b645c8cb25fca848ab651258948654a62bd5902a648bcb875dbcff5ae6cbd54e",
+  "tamano": 5221259,
+  "fecha": "2026-11-07",
+  "notas": "• ¿Desde cuándo?: Cuando marca Sí en un síntoma, aparece \"¿Desde cuándo?\". Toque y elija (Hoy, Ayer, 3 días, 1 semana, 1 mes…) o escríbalo. En el resumen de la consulta sale \"Fiebre (hace 3 días)\".",
+  "firma": "eSYnkzG9ypTJ6uYhvUDVw1BzCgWsvxhCQfbx8CLQNTgwhjqisZ0F2hri25mPtCQLGrMFGQZu41lhVUFc9lXQDA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.42/DR-Perla-1.0.42.drpa"
+}

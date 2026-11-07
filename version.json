@@ -1,10 +1,10 @@
 {
-  "version": "1.0.41",
+  "version": "1.0.42",
   "plataforma": "win32-x64",
-  "sha256": "11cca7bf6c4170883634c0989ee5954d0354749c6d85c5e4196c6955ef782ce2",
-  "tamano": 5220442,
+  "sha256": "b645c8cb25fca848ab651258948654a62bd5902a648bcb875dbcff5ae6cbd54e",
+  "tamano": 5221259,
   "fecha": "2026-11-07",
-  "notas": "• Todos los síntomas, sin perder tiempo: En la consulta siguen arriba los síntomas que usted más pregunta. Debajo hay un buscador: escriba como lo dice el paciente (\"ahogo\", \"comezón\", \"se privó\") o con el término médico (\"disnea\", \"disuria\") y aparece. Si no está, lo agrega tal cual. Y el botón \"Revisión por sistemas\" trae más de 130 síntomas por aparato (piel, respiratorio, corazón, digestivo, orina, mujer, niños, ánimo…) para no olvidar nada. Los que usted agrega seguido pasan solos a su lista rápida.",
-  "firma": "JZ/qR97dezlw+fPTGVORKmFOyPrueeKrIdfzTI52CrE1XDiR6nRBCaReWbnunvkbubQLL02IgUzbuIPQIYU6BA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.41/DR-Perla-1.0.41.drpa"
+  "notas": "• ¿Desde cuándo?: Cuando marca Sí en un síntoma, aparece \"¿Desde cuándo?\". Toque y elija (Hoy, Ayer, 3 días, 1 semana, 1 mes…) o escríbalo. En el resumen de la consulta sale \"Fiebre (hace 3 días)\".",
+  "firma": "eSYnkzG9ypTJ6uYhvUDVw1BzCgWsvxhCQfbx8CLQNTgwhjqisZ0F2hri25mPtCQLGrMFGQZu41lhVUFc9lXQDA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.42/DR-Perla-1.0.42.drpa"
 }
