@@ -1,0 +1,10 @@
+{
+  "version": "1.0.50",
+  "plataforma": "win32-x64",
+  "sha256": "679eb54ef2fa16f4115a14dfc3299a4c7cdf192e29550181a8713b2792dbdf49",
+  "tamano": 5230874,
+  "fecha": "2026-11-07",
+  "notas": "• Resultados y analíticas dentro de la consulta: En la consulta, a la izquierda, la tarjeta \"Resultados y analíticas\" muestra lo que usted indicó y todavía no ha llegado (con su fecha límite) y los resultados que ya tiene el paciente. Toque uno y se abre encima de la consulta, con los valores, el anterior, el informe y los archivos. Para volver, \"Volver a la consulta\".\n• El paciente trajo los resultados: En la misma tarjeta toque \"Lo trajo: registrar\" junto a la analítica pendiente, escriba los valores (o adjunte el PDF) y guarde. Se abre el resultado para revisarlo y marcarlo revisado, sin salir de la consulta.",
+  "firma": "49CWqKS1Wu+liVYksPCKFeXDK9PidLCdDbdwxHHMVXVsPGz5X8/BGwIKvpNSl76gf5sNUJ/LRuidxJ5bkSiaCg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.50/DR-Perla-1.0.50.drpa"
+}
