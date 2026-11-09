@@ -1,10 +1,10 @@
 {
-  "version": "1.0.60",
+  "version": "1.0.61",
   "plataforma": "win32-x64",
-  "sha256": "4f7ad6e829a2a826dc40afda8a47b1200d15ad714f3677f9d1a687f0927c9924",
-  "tamano": 5254255,
+  "sha256": "f2eff92adcc7846b6f7adc2beb0607b8c4231d26ab4a2cff53280aa8cc715e31",
+  "tamano": 5254576,
   "fecha": "2026-11-09",
-  "notas": "• El soporte puede ayudar con la firma: La cuenta de soporte ahora puede subir, cambiar o quitar la firma, el sello y el exequátur de un doctor. El código de 4 números solo lo pone el doctor desde su cuenta, así que sin él no se firma nada. Lo que haga el soporte le sale al doctor en sus avisos de seguridad.",
-  "firma": "Urgw9YgjJ80oW5XzGEdOWOrFAqXqalzPLFErviEtsLCNZMqQ39K/nKUxD1OVpMc3S1vO1A3TuLaZ0wSHgQTeDQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.60/DR-Perla-1.0.60.drpa"
+  "notas": "• Seguros (ARS) en un solo lugar: En el menú ahora dice \"Seguros (ARS)\". Adentro hay 3 pestañas: 📝 Reclamaciones (lo que hay que completar o responder), 📄 Reportes por ARS (lo que se manda cada mes) y 💰 Lo que deben las ARS. Ya no se usa la palabra \"lote\".\n• Reportes más fáciles: \"📦 Hacer los reportes del mes\" abre en el mes actual con todo lo pendiente. En \"Reportes por ARS\" se toca la fila para ver o imprimir el reporte. Cuando la ARS paga, toque \"💰 La ARS pagó\": si pagó menos, ahí mismo se anota a quién no le pagó y por qué.",
+  "firma": "gvp7Fq9ULfuXXs6JUL217R4H/k/WaJFQepF1G21xa70UU77sPmdWAzngtjbCIG6GmmWMUmMMVNjUvFA+9mdXCw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.61/DR-Perla-1.0.61.drpa"
 }

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.61",
+  "plataforma": "win32-x64",
+  "sha256": "f2eff92adcc7846b6f7adc2beb0607b8c4231d26ab4a2cff53280aa8cc715e31",
+  "tamano": 5254576,
+  "fecha": "2026-11-09",
+  "notas": "• Seguros (ARS) en un solo lugar: En el menú ahora dice \"Seguros (ARS)\". Adentro hay 3 pestañas: 📝 Reclamaciones (lo que hay que completar o responder), 📄 Reportes por ARS (lo que se manda cada mes) y 💰 Lo que deben las ARS. Ya no se usa la palabra \"lote\".\n• Reportes más fáciles: \"📦 Hacer los reportes del mes\" abre en el mes actual con todo lo pendiente. En \"Reportes por ARS\" se toca la fila para ver o imprimir el reporte. Cuando la ARS paga, toque \"💰 La ARS pagó\": si pagó menos, ahí mismo se anota a quién no le pagó y por qué.",
+  "firma": "gvp7Fq9ULfuXXs6JUL217R4H/k/WaJFQepF1G21xa70UU77sPmdWAzngtjbCIG6GmmWMUmMMVNjUvFA+9mdXCw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.61/DR-Perla-1.0.61.drpa"
+}
