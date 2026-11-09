@@ -1,10 +1,10 @@
 {
-  "version": "1.0.55",
+  "version": "1.0.56",
   "plataforma": "win32-x64",
-  "sha256": "413fa4d90f91e1cae0b9318427cc2416662cd44c4d4219a12fa11593a13a8c6f",
-  "tamano": 5242396,
+  "sha256": "8382ff3b18669840102ec53d205074982de8a21a130bbbef7bc4154cf1e109c8",
+  "tamano": 5251212,
   "fecha": "2026-11-09",
-  "notas": "• Código para firmar: Su firma y su sello ya no salen solos: al imprimir, toque \"✍️ Firmar con mi código\" y escriba sus 4 números. Si la secretaria imprime, usted escribe el código. Póngalo en Configuración → \"Mi firma y sello\". Cada papel firmado queda en la bitácora.\n• Ver ficha sin salir: En Mi consulta y en el Calendario, \"Ver ficha\" abre la ficha del paciente en una ventana encima. \"Cerrar y volver\" lo deja donde estaba.",
-  "firma": "nsVsuUnf1ZF0uIckVLRoiDn6CzfpCg6lSKJf09qdHhMujCeGwt7R2vMtmJXXeLoae9PD3UWbmEluUAT502YPCA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.55/DR-Perla-1.0.55.drpa"
+  "notas": "• Reclamaciones por etapas: Reclamaciones ahora tiene 6 cuadros arriba (Falta completar, Lista para enviar, En la relación, Enviada a la ARS, Glosada y Pagada) con la cantidad y el dinero de cada una. Lo más urgente sale primero y cada fila tiene un solo botón con lo que toca hacer.\n• Avisos de plazos: Si anota los plazos de cada ARS en \"⚙ Datos de las ARS\", sale en rojo lo que está por vencer (para enviar, para cobrar o para responder una glosa) y cuánto dinero está en riesgo.\n• Un solo buscador: Escriba el nombre, el No. de afiliado, la autorización o la cédula (o apriete /) y encuentra la reclamación en cualquier etapa.\n• Entregar el mes en 3 pasos: \"📦 Entregar el mes a las ARS\" prepara la relación y la factura de todas las ARS a la vez. Luego se imprimen todas juntas, firmadas con un solo código del doctor, o se guardan en PDF para el portal de cada ARS.",
+  "firma": "myIidzYrqzB95kJqXMT/3ngsvb1gROiedk2NcAnrgRF+A//DL+8A6Hv+ytA6x5jYjLNmWXVXkD3BbxZHndGeAw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.56/DR-Perla-1.0.56.drpa"
 }
