@@ -1,10 +1,10 @@
 {
-  "version": "1.0.57",
+  "version": "1.0.58",
   "plataforma": "win32-x64",
-  "sha256": "ad2091d2788ca3ed4280a017d87ecbc4f74d2ecd9f406b36cbb001714ec09325",
-  "tamano": 5251875,
+  "sha256": "152617b3c14690f2f56f7aeec5d22dc116ea0d3d7187eb7e8721ec3ae8100d9d",
+  "tamano": 5252718,
   "fecha": "2026-11-09",
-  "notas": "• Plazos de las ARS en Mi día: Mi día avisa en rojo cuando hay reclamaciones que se vencen para enviar esta semana y glosas por responder que vencen pronto (según los plazos anotados en \"Datos de las ARS\").\n• La factura dentro de la relación: La relación impresa (o guardada en PDF) ahora lleva abajo su factura electrónica: e-NCF, emisor, ARS, total, condición de pago y el código QR y de seguridad de la DGII.",
-  "firma": "WhiBVxQ3pqBtZCQ8NfIVN5PQPAefgwnaDVquuaWzUK5RlDFZKM2aQwr9Qi7jGLAKw3M1mjRPdUjtPTA7+bjBDQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.57/DR-Perla-1.0.57.drpa"
+  "notas": "• Esperando resultado: una línea por paciente: En Resultados → \"Esperando resultado\" cada paciente sale en una sola línea con cuántos estudios se le indicaron y la fecha para traerlos. Toque \"Ver lo indicado\" para ver cada estudio y registrar su resultado o cerrarlo. El nombre del paciente abre su ficha en una ventana.",
+  "firma": "hQlMxeheWGVNph2hU1A7Gt7YkKps0oGX5pjBckqhRwbKu9p3YRuvzvA0gDcBnfjQgpLFrFw9MNgFgad9iI2KCA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.58/DR-Perla-1.0.58.drpa"
 }

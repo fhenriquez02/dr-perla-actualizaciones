@@ -1,0 +1,10 @@
+{
+  "version": "1.0.58",
+  "plataforma": "win32-x64",
+  "sha256": "152617b3c14690f2f56f7aeec5d22dc116ea0d3d7187eb7e8721ec3ae8100d9d",
+  "tamano": 5252718,
+  "fecha": "2026-11-09",
+  "notas": "• Esperando resultado: una línea por paciente: En Resultados → \"Esperando resultado\" cada paciente sale en una sola línea con cuántos estudios se le indicaron y la fecha para traerlos. Toque \"Ver lo indicado\" para ver cada estudio y registrar su resultado o cerrarlo. El nombre del paciente abre su ficha en una ventana.",
+  "firma": "hQlMxeheWGVNph2hU1A7Gt7YkKps0oGX5pjBckqhRwbKu9p3YRuvzvA0gDcBnfjQgpLFrFw9MNgFgad9iI2KCA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.58/DR-Perla-1.0.58.drpa"
+}
