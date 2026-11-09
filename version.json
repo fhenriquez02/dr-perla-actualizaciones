@@ -1,10 +1,10 @@
 {
-  "version": "1.0.56",
+  "version": "1.0.57",
   "plataforma": "win32-x64",
-  "sha256": "8382ff3b18669840102ec53d205074982de8a21a130bbbef7bc4154cf1e109c8",
-  "tamano": 5251212,
+  "sha256": "ad2091d2788ca3ed4280a017d87ecbc4f74d2ecd9f406b36cbb001714ec09325",
+  "tamano": 5251875,
   "fecha": "2026-11-09",
-  "notas": "• Reclamaciones por etapas: Reclamaciones ahora tiene 6 cuadros arriba (Falta completar, Lista para enviar, En la relación, Enviada a la ARS, Glosada y Pagada) con la cantidad y el dinero de cada una. Lo más urgente sale primero y cada fila tiene un solo botón con lo que toca hacer.\n• Avisos de plazos: Si anota los plazos de cada ARS en \"⚙ Datos de las ARS\", sale en rojo lo que está por vencer (para enviar, para cobrar o para responder una glosa) y cuánto dinero está en riesgo.\n• Un solo buscador: Escriba el nombre, el No. de afiliado, la autorización o la cédula (o apriete /) y encuentra la reclamación en cualquier etapa.\n• Entregar el mes en 3 pasos: \"📦 Entregar el mes a las ARS\" prepara la relación y la factura de todas las ARS a la vez. Luego se imprimen todas juntas, firmadas con un solo código del doctor, o se guardan en PDF para el portal de cada ARS.",
-  "firma": "myIidzYrqzB95kJqXMT/3ngsvb1gROiedk2NcAnrgRF+A//DL+8A6Hv+ytA6x5jYjLNmWXVXkD3BbxZHndGeAw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.56/DR-Perla-1.0.56.drpa"
+  "notas": "• Plazos de las ARS en Mi día: Mi día avisa en rojo cuando hay reclamaciones que se vencen para enviar esta semana y glosas por responder que vencen pronto (según los plazos anotados en \"Datos de las ARS\").\n• La factura dentro de la relación: La relación impresa (o guardada en PDF) ahora lleva abajo su factura electrónica: e-NCF, emisor, ARS, total, condición de pago y el código QR y de seguridad de la DGII.",
+  "firma": "WhiBVxQ3pqBtZCQ8NfIVN5PQPAefgwnaDVquuaWzUK5RlDFZKM2aQwr9Qi7jGLAKw3M1mjRPdUjtPTA7+bjBDQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.57/DR-Perla-1.0.57.drpa"
 }
