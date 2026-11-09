@@ -1,10 +1,10 @@
 {
-  "version": "1.0.64",
+  "version": "1.0.65",
   "plataforma": "win32-x64",
-  "sha256": "def9365ea1b3b9fc365dcdf25d078b73ec0621d64fbf672d41b14fb2ea7509e9",
-  "tamano": 5256365,
+  "sha256": "f7386fb6350c0890dc3ab501fe909218aa1eb26b56c96cf623608df7b8976447",
+  "tamano": 5257043,
   "fecha": "2026-11-09",
-  "notas": "• Ver sin salir de la pantalla: En todo el programa, tocar el nombre de un paciente abre su ficha en una ventana encima (Agenda, Inicio, Mi día, Mensajería, Documentos, Cirugías, Seguros y la consulta). Los resultados y las consultas anteriores también se abren en ventana. \"Cerrar y volver\" lo deja donde estaba.\n• Ventanas una encima de otra: Desde la ficha abierta en ventana puede abrir una consulta anterior o un resultado encima, y al cerrarlos vuelve a la ficha. \"Abrir la ficha completa\" sigue llevando a la pantalla de la ficha.",
-  "firma": "AhgvApF+cfrO/uwA2HpOLyWvmT5j2G0DmEKz+W1SeheGNG6YaNZ5tU0drZgL56yQZO4cpUb0MUX0uIgGtngKCA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.64/DR-Perla-1.0.64.drpa"
+  "notas": "• El diagnóstico de la reclamación se llena solo: Cuando el doctor cierra la consulta, la reclamación de la ARS toma sola su diagnóstico principal, aunque se haya cobrado al llegar. Ya no hay que escribir el código.\n• Buscar el diagnóstico por nombre: Si una reclamación no tiene diagnóstico (el doctor no lo puso), en \"Completar\" se escribe el nombre (hipertensión, gripe, diabetes…) y se escoge de la lista CIE-10.",
+  "firma": "VVxFZrcXKr8DeHlQWVxKNo0VDQJtx2onsHSrJq2zJmGxruOu17y0tMqnuYfN2SzADoyMS0XRsRW3yD4sM8PIBA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.65/DR-Perla-1.0.65.drpa"
 }

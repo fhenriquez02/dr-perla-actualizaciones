@@ -1,0 +1,10 @@
+{
+  "version": "1.0.65",
+  "plataforma": "win32-x64",
+  "sha256": "f7386fb6350c0890dc3ab501fe909218aa1eb26b56c96cf623608df7b8976447",
+  "tamano": 5257043,
+  "fecha": "2026-11-09",
+  "notas": "• El diagnóstico de la reclamación se llena solo: Cuando el doctor cierra la consulta, la reclamación de la ARS toma sola su diagnóstico principal, aunque se haya cobrado al llegar. Ya no hay que escribir el código.\n• Buscar el diagnóstico por nombre: Si una reclamación no tiene diagnóstico (el doctor no lo puso), en \"Completar\" se escribe el nombre (hipertensión, gripe, diabetes…) y se escoge de la lista CIE-10.",
+  "firma": "VVxFZrcXKr8DeHlQWVxKNo0VDQJtx2onsHSrJq2zJmGxruOu17y0tMqnuYfN2SzADoyMS0XRsRW3yD4sM8PIBA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.65/DR-Perla-1.0.65.drpa"
+}
