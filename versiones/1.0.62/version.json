@@ -1,0 +1,10 @@
+{
+  "version": "1.0.62",
+  "plataforma": "win32-x64",
+  "sha256": "686de2f459a714b36dbaef8adc7e0f8c9a2a43d7f53913ef7fdb70cc5bb46c06",
+  "tamano": 5255153,
+  "fecha": "2026-11-09",
+  "notas": "• Cobrar antes de la consulta: se escoge al llegar: Si en Configuración → Precios y comprobantes se activa \"Preguntar al registrar la llegada si paga antes de entrar\", al marcar que el paciente llegó salen dos botones: \"💵 Cobrar ahora\" (se abre la Caja con el paciente) o \"🕑 Al terminar la consulta\".\n• Los ajustes de cobro, en Configuración: Cuándo se cobra y si el precio se escribe en Caja ya no están dentro de Caja: ahora están en Configuración → Precios y comprobantes, y solo los cambia quien tiene permiso de configuración.",
+  "firma": "+tlQ+kLuxqTFE3wypyJlzQb8wyhRCp1346C0FKDs/96ktW8P7660w+001rPODYxZcVrYXiGttTBQcpDbibapAw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.62/DR-Perla-1.0.62.drpa"
+}
