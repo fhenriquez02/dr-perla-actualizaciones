@@ -1,10 +1,10 @@
 {
-  "version": "1.0.54",
+  "version": "1.0.55",
   "plataforma": "win32-x64",
-  "sha256": "c42b0743a0a23392924c939179470713cd275bab4f0660a385323c582739b381",
-  "tamano": 5239682,
+  "sha256": "413fa4d90f91e1cae0b9318427cc2416662cd44c4d4219a12fa11593a13a8c6f",
+  "tamano": 5242396,
   "fecha": "2026-11-09",
-  "notas": "• Su firma y su sello en lo impreso: En Configuración → \"Mi firma y sello\" suba una foto de su firma y otra de su sello. El programa les quita el fondo blanco solo. Salen en la receta, las indicaciones, los documentos médicos, las hojas de cirugía y la relación para la ARS.\n• Relación a la ARS firmada, sin imprimir: La relación ahora lleva la firma y el sello del doctor. Para subirla al portal de la ARS: \"Imprimir relación\" → \"Guardar como PDF\".",
-  "firma": "gGAjKwm2dqdIG941zeB0GxHqsI/vzQEzUIE3/sH0fTp6f6VX5TlwH04A3FPnLZ82Pk5YrWBGS5TvHF5EmKypAw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.54/DR-Perla-1.0.54.drpa"
+  "notas": "• Código para firmar: Su firma y su sello ya no salen solos: al imprimir, toque \"✍️ Firmar con mi código\" y escriba sus 4 números. Si la secretaria imprime, usted escribe el código. Póngalo en Configuración → \"Mi firma y sello\". Cada papel firmado queda en la bitácora.\n• Ver ficha sin salir: En Mi consulta y en el Calendario, \"Ver ficha\" abre la ficha del paciente en una ventana encima. \"Cerrar y volver\" lo deja donde estaba.",
+  "firma": "nsVsuUnf1ZF0uIckVLRoiDn6CzfpCg6lSKJf09qdHhMujCeGwt7R2vMtmJXXeLoae9PD3UWbmEluUAT502YPCA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.55/DR-Perla-1.0.55.drpa"
 }

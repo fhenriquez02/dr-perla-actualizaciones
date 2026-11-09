@@ -1,0 +1,10 @@
+{
+  "version": "1.0.55",
+  "plataforma": "win32-x64",
+  "sha256": "413fa4d90f91e1cae0b9318427cc2416662cd44c4d4219a12fa11593a13a8c6f",
+  "tamano": 5242396,
+  "fecha": "2026-11-09",
+  "notas": "• Código para firmar: Su firma y su sello ya no salen solos: al imprimir, toque \"✍️ Firmar con mi código\" y escriba sus 4 números. Si la secretaria imprime, usted escribe el código. Póngalo en Configuración → \"Mi firma y sello\". Cada papel firmado queda en la bitácora.\n• Ver ficha sin salir: En Mi consulta y en el Calendario, \"Ver ficha\" abre la ficha del paciente en una ventana encima. \"Cerrar y volver\" lo deja donde estaba.",
+  "firma": "nsVsuUnf1ZF0uIckVLRoiDn6CzfpCg6lSKJf09qdHhMujCeGwt7R2vMtmJXXeLoae9PD3UWbmEluUAT502YPCA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.55/DR-Perla-1.0.55.drpa"
+}
