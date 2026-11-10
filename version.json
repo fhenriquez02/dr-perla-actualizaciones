@@ -1,10 +1,10 @@
 {
-  "version": "1.0.81",
+  "version": "1.0.82",
   "plataforma": "win32-x64",
-  "sha256": "31c0be558ff23aec38b3038c9a594a967c5f296494093a69bcdcab51103fc7c0",
-  "tamano": 5613101,
+  "sha256": "68d58b77b00abdd819976c8902f459c90a1b99f4fe51aa015d55a98d37355c7c",
+  "tamano": 5614346,
   "fecha": "2026-11-10",
-  "notas": "• Aviso cuando los comprobantes fiscales se están acabando: Arriba de la pantalla sale un aviso naranja cuando quedan 20 comprobantes o menos de un tipo (E31 para las ARS, E32 para pacientes, E34 notas de crédito), o cuando vencen en los próximos 30 días. Se puede cerrar hasta mañana. Si ya se acabaron o vencieron, el aviso sale en rojo y no se cierra, porque sin ellos no se puede facturar. El doctor tiene el botón \"Cargar comprobantes\" para ir directo a donde se cargan.\n• También en Mi día: El mismo aviso aparece como tarea en Mi día, con el botón \"Cargar\". Recuerde pedir los números nuevos en la Oficina Virtual de la DGII con tiempo.",
-  "firma": "NsbneaAcBceyDn4GahqHg2cBBRK8j7VlxtHMlwSrM7JD7n610vhMKJOanLTojDNGKLz9aTWhHCnw9yOUW80WCg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.81/DR-Perla-1.0.81.drpa"
+  "notas": "• Comprobantes en papel (B01, B02, B04): Si el consultorio todavía factura con comprobantes en papel, ahora puede usarlos. En Configuración → Precios y comprobantes escoja \"🧾 En papel\" o \"💻 Electrónicos\". En papel, las facturas a las ARS y a quien pida crédito fiscal salen con B01, las de consumo con B02 y las notas de crédito con B04. No se envían a la DGII uno por uno y la factura impresa dice \"válido hasta\" con la fecha de vencimiento de los números.\n• Caja con comprobantes en papel: Si el doctor escogió comprobantes en papel, al cobrar verá \"Factura de consumo (B02)\" y \"Crédito fiscal (B01)\". Al anular una factura, la nota de crédito sale del mismo tipo que la factura (B04 o E34). El aviso de comprobantes que se acaban cuenta los de papel.",
+  "firma": "v1kHJtOFIlUPZP0OEuuoEsZZY5KmdnVnfDpMGBMpKz90tl9kSqf25QE5xiJbuwrRV46Z+snJWYZ/v9WsieCpAg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.82/DR-Perla-1.0.82.drpa"
 }
