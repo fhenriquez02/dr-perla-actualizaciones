@@ -1,0 +1,10 @@
+{
+  "version": "1.0.78",
+  "plataforma": "win32-x64",
+  "sha256": "1b6582fe85a7649c84f17ff3ad778f4eb0e3d5fa989ad12dec4f54163e4324c2",
+  "tamano": 5295298,
+  "fecha": "2026-11-10",
+  "notas": "• Arreglado: \"Llegó\" parecía no hacer nada: Con varios pacientes en la sala, la lista de citas queda larga y al tocar \"Llegó\" la ventana se abría arriba de la página, donde no se veía. Ahora se abre como ventana en el centro de la pantalla, esté donde esté. Al registrar la llegada, la página sube sola para que vea el turno.",
+  "firma": "xdhX4Uw1ctgSI5vpp/DBHzhvUKv8HUB0zRQA3Eb8ANgLr3voSiEXP1bGMx2l0890xN3OLd2v9LJs28yhujlTCA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.78/DR-Perla-1.0.78.drpa"
+}
