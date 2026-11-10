@@ -1,0 +1,10 @@
+{
+  "version": "1.0.76",
+  "plataforma": "win32-x64",
+  "sha256": "a5796d079d2524647255396acb1b3b53f1b9b24cf1383515142253c0a087718f",
+  "tamano": 5294804,
+  "fecha": "2026-11-10",
+  "notas": "• La tablet registra la llegada sola: La tablet queda en la recepción siempre lista: \"Para registrar su llegada, escriba su cédula\". El paciente escoge a qué viene (o llena su registro si es nuevo), toca \"Terminar\" y la tablet le muestra su turno en grande. Ya queda en la sala de espera, con su cita de hoy si tenía, y el doctor ve a qué viene. La secretaria no tiene que tocar ningún botón.\n• Cobro y seguro: Si el consultorio cobra antes de la consulta, la tablet le dice al paciente \"Antes de entrar, pase por caja\" y el cobro ya aparece en Caja. Si tiene seguro y falta la autorización, en la Agenda sale \"⚠ Sin autorización\" como siempre.\n• Solo se revisa lo raro: Si un paciente nuevo se parece a alguien ya registrado, la tablet le dice \"Pase con la secretaria\" y a usted le sale en la Agenda para revisar. Al guardar, queda en la sala con su turno. Si alguien deja la tablet a medias, a los 90 segundos se borra sola.",
+  "firma": "lCh6fB/SfiUm//7y8fp9uNHNClF/rlLfr1iRq12ujaxTMvKJYwcu33Xer2UihZs5FxU3d59LenEEtp7l4PTTCA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.76/DR-Perla-1.0.76.drpa"
+}
