@@ -1,10 +1,10 @@
 {
-  "version": "1.0.66",
+  "version": "1.0.67",
   "plataforma": "win32-x64",
-  "sha256": "a2d15e70770abab14df5f650297783daf232120803ca5ac75810cb5fc73285f3",
-  "tamano": 5269838,
+  "sha256": "373af24bf19a1300b5136741b6392657b1e9e8b46a7c9f53dade0315c242ec30",
+  "tamano": 5281431,
   "fecha": "2026-11-10",
-  "notas": "• Los datos del paciente se piden al llegar: Al registrar la llegada, si al paciente le faltan datos (cédula, fecha de nacimiento, sexo, celular, dirección, contacto de emergencia) sale un recuadro con solo lo que falta, para llenarlo ahí mismo mientras está delante. Si hay prisa, toque \"Después\": se le vuelve a pedir la próxima vez.\n• En la consulta: edad, sexo y alergias a la vista: Si falta la edad o el sexo del paciente, junto a su nombre sale \"⚠ Falta: edad, sexo · completar\" y se llena en una ventanita sin salir. Si las alergias no están anotadas, se pregunta en grande con el botón \"Ninguna conocida\".\n• Pacientes con datos incompletos: En la lista de Pacientes, debajo del nombre sale \"📋 Datos incompletos\" cuando le falta algo importante.",
-  "firma": "pXDxgMCYtFx9e/wTzlAHURrzvhFrnNJizcCziJxXcm3ORYc4i7usPZrLVBrJGj2D9Z6DXm4fJFFgcreCdGqQAw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.66/DR-Perla-1.0.66.drpa"
+  "notas": "• Nuevo: el paciente llena sus datos en una tablet: Pásele una tablet al paciente y él mismo escribe sus datos: nombre, cédula, fecha de nacimiento, celular, dirección, contacto de emergencia, seguro, alergias, enfermedades y medicamentos. Una pregunta por pantalla, con letras grandes. Al tocar \"Enviar\", la tablet se limpia sola para el próximo paciente.\n• Usted revisa antes de guardar: Lo que escribe el paciente no entra a la ficha hasta que usted lo revisa. Cuando alguien termina, arriba sale \"📱 Un paciente terminó de llenar sus datos · Revisar\". Si es un paciente que ya existe, solo se llena lo que le faltaba.\n• Cómo empezar: Menú → \"Tablet de pacientes\" → \"+ Enlazar una tablet\" (lo hace el doctor una sola vez). En la tablet se abre Chrome, se escribe la dirección que sale y un código de 6 números. No hay usuario ni contraseña: la tablet queda enlazada para siempre, y si se pierde se \"desenlaza\" desde la computadora.",
+  "firma": "ee3JhUXViV7d3wgqHF7crG2bsaehrsdOl8xEtwHR9/N9z3xwLPZrzo4Z3sploQRUbjf0lJ0IMjjL25YIWZtVBg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.67/DR-Perla-1.0.67.drpa"
 }
