@@ -1,0 +1,10 @@
+{
+  "version": "1.0.77",
+  "plataforma": "win32-x64",
+  "sha256": "d83eee9f9a91d3f177b401f95a1e6c28e26e468ebc23e7835f4d9153d8a09302",
+  "tamano": 5295017,
+  "fecha": "2026-11-10",
+  "notas": "• Tablet: el turno dice lo correcto: Si el televisor de turnos está encendido, la tablet dice \"Le llamarán por su turno en la pantalla\". Si no hay pantalla encendida, dice \"Le llamarán cuando sea su turno\". Los avisos de \"pase por caja\" y \"carnet del seguro\" se leen más claros.",
+  "firma": "ZJbByxQePdPmkikBuLQ6Kh76sBdMi2vX8lbtUK3SAJK75pP3gwjuPNb8rM4ZcxOmgZ6c9UaibsCDfTK4rLA6Ag==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.77/DR-Perla-1.0.77.drpa"
+}
