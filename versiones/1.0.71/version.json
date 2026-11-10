@@ -1,0 +1,10 @@
+{
+  "version": "1.0.71",
+  "plataforma": "win32-x64",
+  "sha256": "d7aa04e103efcd6ad467cb6c12f8d2e9176de4ed3cb74339aaa555609bf3cf55",
+  "tamano": 5287805,
+  "fecha": "2026-11-10",
+  "notas": "• Pacientes parecidos, arriba y con todos los motivos: Al revisar un paciente \"nuevo\" de la tablet, el aviso \"¿Ya estaba registrado?\" sale arriba de todo, y dice todos los motivos del parecido (por ejemplo: mismo nombre, cédula casi igual).",
+  "firma": "9byFUl8S2LzFChhMQ0qHiedeYD6I5uxohcCXXb+9v1Ca9/7h3ZNYvrlOHwxpmJGHWfw9ywFFzSuIlTbc4NVRCw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.71/DR-Perla-1.0.71.drpa"
+}
