@@ -1,10 +1,10 @@
 {
-  "version": "1.0.73",
+  "version": "1.0.74",
   "plataforma": "win32-x64",
-  "sha256": "0675687a0afcde2aa6c81ff650ac957aa15d3d040eef94b5902310272ffe2e97",
-  "tamano": 5288609,
+  "sha256": "d36433d229f049971ac6ff90146a575ae1eb407eecfa7452f8c822bcc30ec3c0",
+  "tamano": 5289956,
   "fecha": "2026-11-10",
-  "notas": "• Tablet: el paciente registrado solo dice a qué viene: Si la cédula ya está en el sistema, la tablet dice \"¡Saludos, María G.!\" y solo pregunta a qué viene hoy (consulta, seguimiento, resultados o procedimiento) y qué le pasa. No le vuelve a pedir fecha de nacimiento, dirección ni nada que ya está guardado. Un toque en \"Enviar\" y listo.\n• Motivos de consulta con un toque: En \"¿A qué viene hoy?\" el paciente toca lo que tiene (dolor, fiebre, tos o gripe, mareos, presión alta, azúcar alta, cansancio, chequeo, renovar medicamentos, certificado) y, si quiere, escribe más. Le llega al doctor como motivo de la consulta.",
-  "firma": "gZ5aVb0CUf4elkt5a7XO6hvwrmKRFqJHz9hLNNYSlgzbTKiVgKhg0lczvBdMXeHKtWo/WIyCqmjW34qD7ISOCg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.73/DR-Perla-1.0.73.drpa"
+  "notas": "• La tablet guarda directo en la ficha del paciente: Lo que el paciente escribe en la tablet entra directo a su ficha: si es nuevo, se crea su ficha igual que si lo registrara la secretaria; si ya existe, se completa. Un paciente es uno solo, venga de la tablet o de la secretaria, y aparece en Pacientes, Agenda, Consulta y Caja como cualquier otro.\n• Todo desde la Agenda de hoy: En Agenda de hoy está el botón \"📱 Pasar la tablet\". Quien termina en la tablet sale en \"Llegaron por la tablet\" con a qué viene: toque \"Registrar llegada\" y se le da turno como siempre. Si el paciente nuevo se parece a alguien ya registrado, sale \"Revisar\" para decidir si es la misma persona.\n• Tablet de pacientes, en Configuración: Enlazar y desenlazar las tablets ahora está en Configuración → Tablet de pacientes.",
+  "firma": "YCUvfnE1FOAGA6L6Lww1l1ruUyUdYf+md5Ba8/uejzSJ6l9da4658q6ctzkFu0cC+HutWl1ZLFC3fN9xtwz5AA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.74/DR-Perla-1.0.74.drpa"
 }
