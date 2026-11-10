@@ -1,10 +1,10 @@
 {
-  "version": "1.0.74",
+  "version": "1.0.75",
   "plataforma": "win32-x64",
-  "sha256": "d36433d229f049971ac6ff90146a575ae1eb407eecfa7452f8c822bcc30ec3c0",
-  "tamano": 5289956,
+  "sha256": "b7fcb8b0518c0d17526cd9aa2cd0c1dec5f6d2701e01aae51e39a4b471f8e64c",
+  "tamano": 5290231,
   "fecha": "2026-11-10",
-  "notas": "• La tablet guarda directo en la ficha del paciente: Lo que el paciente escribe en la tablet entra directo a su ficha: si es nuevo, se crea su ficha igual que si lo registrara la secretaria; si ya existe, se completa. Un paciente es uno solo, venga de la tablet o de la secretaria, y aparece en Pacientes, Agenda, Consulta y Caja como cualquier otro.\n• Todo desde la Agenda de hoy: En Agenda de hoy está el botón \"📱 Pasar la tablet\". Quien termina en la tablet sale en \"Llegaron por la tablet\" con a qué viene: toque \"Registrar llegada\" y se le da turno como siempre. Si el paciente nuevo se parece a alguien ya registrado, sale \"Revisar\" para decidir si es la misma persona.\n• Tablet de pacientes, en Configuración: Enlazar y desenlazar las tablets ahora está en Configuración → Tablet de pacientes.",
-  "firma": "YCUvfnE1FOAGA6L6Lww1l1ruUyUdYf+md5Ba8/uejzSJ6l9da4658q6ctzkFu0cC+HutWl1ZLFC3fN9xtwz5AA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.74/DR-Perla-1.0.74.drpa"
+  "notas": "• Tablet de pacientes, probada de principio a fin: Se revisó todo el recorrido: enlazar la tablet en Configuración, \"📱 Pasar la tablet\" en la Agenda, paciente nuevo y paciente registrado, registrar su llegada y ver su motivo y sus alergias en la consulta. Se corrigieron detalles internos y las notas repetidas de \"Novedades\".",
+  "firma": "BGS0q2d77vPrTVLCP+gGb6l1r4bJJcIMgjqy+/sxUL2g3F0W0oaAOAQAXy3jTztlt/JW1ILGOhG1A5nQHtFMCg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.75/DR-Perla-1.0.75.drpa"
 }
