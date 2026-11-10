@@ -1,0 +1,10 @@
+{
+  "version": "1.0.80",
+  "plataforma": "win32-x64",
+  "sha256": "fd29dc0b9a8ff6f900b1ce1ddbd08eab4c2d100378fab00da884db8bf45fa5a5",
+  "tamano": 5612020,
+  "fecha": "2026-11-10",
+  "notas": "• Apariencia en un botón pequeño: Los cuatro botones de Apariencia del pie del menú ahora son un solo botón pequeño arriba, al lado de \"Ir a…\". Muestra el modo actual (☀️ claro, 🌙 oscuro, 🖥️ como Windows, 🕖 por horario); tóquelo y escoja. El menú queda más limpio.",
+  "firma": "2rEAOqlsmoBD4CIWU8ljS79tcIHi81lk03ecjDsbcRJm6LidIdmeDwqORcXYy5CKUWZfuvnK0LoVm3FpHVWWBw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.80/DR-Perla-1.0.80.drpa"
+}
