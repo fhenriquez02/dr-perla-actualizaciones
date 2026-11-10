@@ -1,0 +1,10 @@
+{
+  "version": "1.0.73",
+  "plataforma": "win32-x64",
+  "sha256": "0675687a0afcde2aa6c81ff650ac957aa15d3d040eef94b5902310272ffe2e97",
+  "tamano": 5288609,
+  "fecha": "2026-11-10",
+  "notas": "• Tablet: el paciente registrado solo dice a qué viene: Si la cédula ya está en el sistema, la tablet dice \"¡Saludos, María G.!\" y solo pregunta a qué viene hoy (consulta, seguimiento, resultados o procedimiento) y qué le pasa. No le vuelve a pedir fecha de nacimiento, dirección ni nada que ya está guardado. Un toque en \"Enviar\" y listo.\n• Motivos de consulta con un toque: En \"¿A qué viene hoy?\" el paciente toca lo que tiene (dolor, fiebre, tos o gripe, mareos, presión alta, azúcar alta, cansancio, chequeo, renovar medicamentos, certificado) y, si quiere, escribe más. Le llega al doctor como motivo de la consulta.",
+  "firma": "gZ5aVb0CUf4elkt5a7XO6hvwrmKRFqJHz9hLNNYSlgzbTKiVgKhg0lczvBdMXeHKtWo/WIyCqmjW34qD7ISOCg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.73/DR-Perla-1.0.73.drpa"
+}

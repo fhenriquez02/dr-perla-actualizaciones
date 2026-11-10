@@ -1,10 +1,10 @@
 {
-  "version": "1.0.72",
+  "version": "1.0.73",
   "plataforma": "win32-x64",
-  "sha256": "ac8c0bb78610ab961a5b2647f3fe5133a617c093149477bee2e72db686b57e2c",
-  "tamano": 5287885,
+  "sha256": "0675687a0afcde2aa6c81ff650ac957aa15d3d040eef94b5902310272ffe2e97",
+  "tamano": 5288609,
   "fecha": "2026-11-10",
-  "notas": "• Aviso de la tablet: El aviso verde \"Un paciente terminó de llenar sus datos en la tablet\" funciona también con lectores de pantalla y con el teclado.",
-  "firma": "zGxVEkmsUeDftAcMNRs9NTDtJnSsGYsWgo1cmDJgjSelrK0ESgqy1tj/LBC8ZlXR6/NQltU4rT7/jJ4e53hbCQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.72/DR-Perla-1.0.72.drpa"
+  "notas": "• Tablet: el paciente registrado solo dice a qué viene: Si la cédula ya está en el sistema, la tablet dice \"¡Saludos, María G.!\" y solo pregunta a qué viene hoy (consulta, seguimiento, resultados o procedimiento) y qué le pasa. No le vuelve a pedir fecha de nacimiento, dirección ni nada que ya está guardado. Un toque en \"Enviar\" y listo.\n• Motivos de consulta con un toque: En \"¿A qué viene hoy?\" el paciente toca lo que tiene (dolor, fiebre, tos o gripe, mareos, presión alta, azúcar alta, cansancio, chequeo, renovar medicamentos, certificado) y, si quiere, escribe más. Le llega al doctor como motivo de la consulta.",
+  "firma": "gZ5aVb0CUf4elkt5a7XO6hvwrmKRFqJHz9hLNNYSlgzbTKiVgKhg0lczvBdMXeHKtWo/WIyCqmjW34qD7ISOCg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.73/DR-Perla-1.0.73.drpa"
 }
