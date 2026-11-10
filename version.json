@@ -1,10 +1,10 @@
 {
-  "version": "1.0.83",
+  "version": "1.0.84",
   "plataforma": "win32-x64",
-  "sha256": "d7b96f310d80b779b2c18fb94bf4f6c9398cdebf509ae89f3088a77b1c00c601",
-  "tamano": 5615452,
+  "sha256": "d0f8d36c1638e13c09847c9f6a106e7a996a49d7cf9811b853e1047b498490a4",
+  "tamano": 5616080,
   "fecha": "2026-11-10",
-  "notas": "• Corregir o borrar secuencias de comprobantes: En Precios y comprobantes, cada secuencia tiene ahora \"✏️ Editar\" y \"🗑️ Borrar\". Si escribió mal los números y todavía no se ha usado ninguno, puede corregir todo o borrarla. Si ya se usaron números, solo se puede cambiar \"hasta\" y la fecha de vencimiento, para no dañar los comprobantes ya emitidos; para dejar de usar lo que queda, ponga en \"hasta\" el último número usado. Cada corrección queda en la bitácora.",
-  "firma": "uMYlZXf/SPupbw/IAuKRtxByVQspN/qyM9QYJrsAqIYBYKTrQrpNadpOcSpGDmfwvcGBcSu0NaG0rgVuIaURDQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.83/DR-Perla-1.0.83.drpa"
+  "notas": "• Paciente que no pagó: queda debiendo todo: En Caja, al cobrar, hay un botón nuevo: \"🕒 No pagó: queda debiendo todo\". Pide confirmar y el paciente sale de Pendientes de cobro; lo que debe pasa a Cuentas de pacientes con su recibo de \"quedó debiendo\". Cuando pague, se le recibe como abono. No entra dinero a la caja, así que el cierre no cambia.",
+  "firma": "pgxSlQmmKJnHjG89QfE6rIICys4ARJ9aOrxseAHVaxgC8A7I7DfATAlXGY+hNIL9WHikQ3Rcu540sdlgeAXZBg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.84/DR-Perla-1.0.84.drpa"
 }
