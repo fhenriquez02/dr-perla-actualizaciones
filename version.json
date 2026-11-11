@@ -1,10 +1,10 @@
 {
-  "version": "1.0.110",
+  "version": "1.0.111",
   "plataforma": "win32-x64",
-  "sha256": "225b8ca8103399cf1a411969acec5f710829697fbc3e2de1c81d41755609508a",
-  "tamano": 5649917,
+  "sha256": "a48346f36ab4df2585450cbd119300d014e23e07ea9478ed5d205db9d45459ad",
+  "tamano": 5650036,
   "fecha": "2026-11-11",
-  "notas": "• Pantalla del celular más liviana: La pantalla que abre el celular al escanear el código (tomar fotos) ya no arranca la sesión del programa: carga más rápido y evita pedir conexión segura. Nota: para tomar fotos con el celular, el consultorio debe tener la \"conexión segura (HTTPS)\" apagada, porque el certificado no sirve para la dirección del celular.",
-  "firma": "TuIFMx3SrNOcPfRgmgX2P7hIrKkjMHpwXqtAnYB47WnCjAqous6p1xLobDQ/LvpnowWLTT+/wvl+eMXnRhtjBQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.110/DR-Perla-1.0.110.drpa"
+  "notas": "• Arreglada la pantalla negra al tomar fotos con el celular: En iPhone, la pantalla del celular quedaba negra al escanear el código. Fue un efecto de la opción de tamaño de letra que se agregó antes: afectaba el arranque en el navegador del iPhone. Ya quedó corregido y el celular abre normal.",
+  "firma": "qB/dQcVj30uJEPjTPzbr6AR86a/QFbqE58YtIMBTuonMX0gBtYkIb6cny/kA8DS4T8ORDh582ZKKmDRuf+9TBw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.111/DR-Perla-1.0.111.drpa"
 }
