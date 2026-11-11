@@ -1,0 +1,10 @@
+{
+  "version": "1.0.107",
+  "plataforma": "win32-x64",
+  "sha256": "5e1efc8b57e15c15a6819f2937a2101a06f26a219115acbb603d7ac76ac940d2",
+  "tamano": 5648111,
+  "fecha": "2026-11-11",
+  "notas": "• Fotos del paciente: abajo, a todo lo ancho y con buscador: Durante la consulta, el Registro fotográfico se movió abajo, a todo el ancho de la pantalla, y las fotos salen en una cuadrícula ordenada (la más reciente primero), cada una con su fecha. Arriba hay un buscador para filtrar por fecha o descripción (ej.: \"nov\", \"rodilla\", \"uña encarnada\"), y el botón \"Antes y después\" para comparar sigue ahí. Más claro y sin tanto scroll.",
+  "firma": "wyVTh+Ec3PREIqVzkCITshzqgUgz/f32aEMsY5LdAtZDneZOGaTh5DQls4LvE3n5ZQV7LT8DXwq6N2ldc5u3BA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.107/DR-Perla-1.0.107.drpa"
+}
