@@ -1,10 +1,10 @@
 {
-  "version": "1.0.85",
+  "version": "1.0.86",
   "plataforma": "win32-x64",
-  "sha256": "33a801a9d8634f311121a1d42af054086f0b20ac247768cf09e4e6d7a12a3296",
-  "tamano": 5617507,
+  "sha256": "02a15f7b74fa4ef3b7405bc338c13998843cb77214d53f094f6f98fc4fb21aa8",
+  "tamano": 5617408,
   "fecha": "2026-11-10",
-  "notas": "• Número de expediente (récord) de cada paciente: Cada paciente tiene su número de expediente, único y para siempre: el programa lo da al registrarlo y no cambia nunca. Ahora se ve como \"Expediente No. 000123\" en la ficha, la consulta, la lista de pacientes y las búsquedas, y sale impreso en la hoja para el paciente (receta e indicaciones), las licencias, certificados y referimientos, el resumen del historial y la hoja de cirugía. Para buscar a un paciente puede escribir su expediente con o sin ceros: 000123 o 123.",
-  "firma": "vH6u5AyILoomcVylQ0VUzVgfr7aDLny/xJkbpqvkQ16Av9DEzsDc+r9e0MpUBO2kp5zt18UkwnbFrrifhNQcDw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.85/DR-Perla-1.0.85.drpa"
+  "notas": "• Aviso más claro cuando todavía no hay comprobantes: Si el consultorio todavía no ha cargado comprobantes E31 (o B01), el aviso de arriba ya no sale en rojo diciendo que se acabaron. Ahora es un recordatorio naranja que se puede cerrar hasta mañana: mientras tanto se les cobra a los pacientes \"Sin comprobante\", y para hacerle la factura a una ARS sí hacen falta. El aviso rojo queda solo para cuando se acaban o vencen los que ya estaba usando.",
+  "firma": "rkirLs8ggus0VIkKhvHTQ5AQ2/jGQuxBmny31PF4NU4sBzyIomQN7UJEm+oNxddCTr46vfPgLqHHT+jbVllvAg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.86/DR-Perla-1.0.86.drpa"
 }
