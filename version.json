@@ -1,10 +1,10 @@
 {
-  "version": "1.0.105",
+  "version": "1.0.106",
   "plataforma": "win32-x64",
-  "sha256": "253613ec31144743938ec7589d7ff62ce3182379b9208a813912333f5d9ac4f2",
-  "tamano": 5646830,
+  "sha256": "4e7f4b2164b440cae7d650ae3785c04b5c052fe1eef42b6dc106cc1f3c9002aa",
+  "tamano": 5647273,
   "fecha": "2026-11-11",
-  "notas": "• Las medidas de la herida ahora van en la misma foto: Se quitó la sección aparte de \"Heridas con medidas\": era lo mismo que el Registro fotográfico. Ahora el doctor toma la foto con el celular como siempre y, al abrirla en la PC, puede ponerle una descripción y —si es una herida o lesión— el largo y el ancho (cm). El programa calcula el área sola y, en \"Antes y después\", dice cuánto se redujo o creció entre visitas. Las heridas ya registradas se conservan y se ven igual.",
-  "firma": "79JvcF90wFcHo90BHnGiPjQQjtu12Trrkl2mqTbhKNvWToJo1dAYazvFw2W6hWp0TDlBIrrdNnjqCVMusN+0AA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.105/DR-Perla-1.0.105.drpa"
+  "notas": "• En la consulta, el Registro fotográfico ocupa menos: Durante la consulta, las fotos del paciente se muestran ahora en una sola fila que se desliza de lado (agrupadas por visita), en vez de una lista larga hacia abajo. Así, aunque el paciente tenga muchas fotos o muchas visitas, el doctor no tiene que bajar tanto para ver lo demás. En la ficha completa del paciente se siguen viendo todas, grandes y por visita.",
+  "firma": "2kgb2OeukyuFFvPMWpk4PJuq4qk0m2JgUMJULkr0Xkny4xHTd9amf6/cDRSnFr0gsdPVTGiAf/HZtNdWggDtCQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.106/DR-Perla-1.0.106.drpa"
 }
