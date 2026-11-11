@@ -1,10 +1,10 @@
 {
-  "version": "1.0.88",
+  "version": "1.0.89",
   "plataforma": "win32-x64",
-  "sha256": "fa9817ddaaa1655cae13a9161beba06cee9795cbcce8d0373e4baf37d8ac5928",
-  "tamano": 5619630,
+  "sha256": "fa763893499749e82c92b51a22a8ac2c0408946930b535b16bdee9a3f21fbf9b",
+  "tamano": 5619729,
   "fecha": "2026-11-10",
-  "notas": "• Más discreción con la cuenta de soporte técnico: En Usuarios y en la instalación ya no se explica cómo se cambia la contraseña de la cuenta de soporte técnico. Solo dice que la maneja el soporte de DR. Perla. Como siempre, todo lo que hace esa cuenta queda en la bitácora y al doctor le sale un aviso cada vez que entra o hace cambios.",
-  "firma": "dSOt6OoFu+Pw4dr7LtOnkB6lUMHBATqXUWOQ8VN4czeSevU3PzKB7aQ5Cc0KyoSG80IBad2cZsDA11qXaL2ACg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.88/DR-Perla-1.0.88.drpa"
+  "notas": "• \"Cirugías\" ahora se llama \"Procedimientos\": En el menú y en Inicio, la sección de cirugías se llama ahora \"Procedimientos\" (para la secretaria, \"Procedimientos programados\"). Todo sigue igual adentro: ahí se programan cirugías y procedimientos, con requisitos, presupuesto, consentimiento y nota operatoria.",
+  "firma": "KLu/qwALFPrcCx7rgBJ2PrFjeSesQ8uO4T7E6olXoMR+xk9eQXVsAXi1OusdfqzONNMyQYapQj5mybnBZPvADw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.89/DR-Perla-1.0.89.drpa"
 }
