@@ -1,10 +1,10 @@
 {
-  "version": "1.0.108",
+  "version": "1.0.109",
   "plataforma": "win32-x64",
-  "sha256": "21112dca1ce8b4d91b7e9b0cf602ecbd133a90fdd42d4da950aca42eb75299fc",
-  "tamano": 5648559,
+  "sha256": "99c759ed26d2efe3190d937e213f5cce29e4672f7ef019f224bac4fb69c7c512",
+  "tamano": 5649721,
   "fecha": "2026-11-11",
-  "notas": "• En la consulta, las fotos muestran la visita anterior para comparar: Al abrir una consulta, el Registro fotográfico muestra por defecto las fotos de hoy junto con las de la visita anterior, para comparar de una vez. Si el doctor quiere ver más atrás, con \"Comparar con:\" elige últimas 2, últimas 3 o todas. El buscador por fecha o descripción sigue trayendo cualquier foto del paciente, sin importar ese límite.",
-  "firma": "ELuaV/w6hoso9ZP/g3vBJGT/6VUW2JNSQyg6eMzKcfX1A3Ef9JVt2UV6bPm2lIenJDlco1qO2r8g63S4IhDhAw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.108/DR-Perla-1.0.108.drpa"
+  "notas": "• Color del consultorio y tamaño de letra: En Configuración ahora se puede elegir el color de la marca del consultorio (verde petróleo, azul, verde, vino, morado o grafito): tiñe el menú, las barras y los botones de todo el programa, y es uno solo para toda la clínica. Además, cada computadora puede ajustar el tamaño de letra (pequeña, normal, grande o muy grande) para quien no vea bien de cerca.",
+  "firma": "PmkJV7rQ7LXF+kmPxxtRVJwNyp+kbiHNH5qU9kkAIv5wEf/mIiAO79JyaIhE5Dn4fB6PwkxQuL+X3xAdWEKCDA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.109/DR-Perla-1.0.109.drpa"
 }
