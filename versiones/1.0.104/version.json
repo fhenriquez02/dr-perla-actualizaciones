@@ -1,0 +1,10 @@
+{
+  "version": "1.0.104",
+  "plataforma": "win32-x64",
+  "sha256": "f8a1f9c907fd8c4f823e4608d71558c80da057e41387ca2fbece0ab91bd0714d",
+  "tamano": 5648047,
+  "fecha": "2026-11-11",
+  "notas": "• Quitar un cobro pendiente (por ejemplo, uno repetido): En Caja, al abrir un paciente de \"Pendientes de cobro\", cada línea de servicio tiene ahora un botón 🗑️ para quitarla. Pide confirmar (\"¿Quitar? Sí/No\") y ese cargo sale de pendientes sin cobrarse. Sirve cuando un cobro quedó repetido o se puso por error. Queda registrado en la bitácora quién lo quitó. Si quita todas las líneas de un paciente, ese paciente desaparece de pendientes.",
+  "firma": "yFXguJZHYCq1cZGdvdGqVrOdwGtfyZxqW/axaM5m4mKZ1T7TEmWh1ozb2xlkETvv9gjK7S2Ki/xJvGtnUfyLBA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.104/DR-Perla-1.0.104.drpa"
+}
