@@ -1,10 +1,10 @@
 {
-  "version": "1.0.91",
+  "version": "1.0.92",
   "plataforma": "win32-x64",
-  "sha256": "e7fdfbccb246233f7e5824f631648699a17064400c972da076351da8858656a2",
-  "tamano": 5624341,
+  "sha256": "3a81f69174cd07420db5b6cc438211203801a7356153d740a9bdd031c54e9a2c",
+  "tamano": 5624856,
   "fecha": "2026-11-10",
-  "notas": "• Fotos en el expediente, tomadas con el celular: En la ficha del paciente y en la consulta hay una sección nueva: \"Fotos del expediente\". Toque \"📱 Tomar con el celular\": sale un código QR. Escanéelo con la cámara del celular (en el Wi-Fi del consultorio), toque \"📷 Tomar foto\" y \"Guardar en el expediente\": la foto aparece sola en la PC. Puede tomar varias seguidas y ponerles una nota. También se pueden subir fotos desde la PC. Las fotos se guardan cifradas en la PC del consultorio, no en el celular. El código sirve solo para ese paciente y vence a los 15 minutos. Quien subió una foto puede borrarla el mismo día; después queda en el expediente.",
-  "firma": "JY4pkLyXeQEn18uK7dWtn7sX4R0bCSnbRVNpm283qbtii89j3IwlvSO258+/qo9HWVkIGjt0jWyGv9f1TEB5AQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.91/DR-Perla-1.0.91.drpa"
+  "notas": "• Todas las fotos que quiera desde el celular: Al escanear el código QR, el doctor puede tomar una foto detrás de otra con \"📷 Tomar otra foto\", sin confirmar cada una: se van guardando solas en el expediente mientras sigue tomando. También puede elegir varias fotos a la vez de la galería. En el celular se ve cada foto con \"✓ Guardada\", y si alguna falla por el Wi-Fi, tiene \"↺ Reintentar\". El código ahora dura 30 minutos y no se vence mientras está tomando fotos.",
+  "firma": "dVKJ771eMTiHWN/TD/Vbx9dRvSWpTY3jYWdRNr0LiExf/3GoaxH0NAsCNEohCWWHCGdAFINJpdHFNtLxc593Dw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.92/DR-Perla-1.0.92.drpa"
 }
