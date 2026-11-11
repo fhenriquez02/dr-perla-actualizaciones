@@ -1,10 +1,10 @@
 {
-  "version": "1.0.93",
+  "version": "1.0.94",
   "plataforma": "win32-x64",
-  "sha256": "14a9702ef080af52192cade761158fce6f3f217d4fb3a1f2a1d884b68ca6dc27",
-  "tamano": 5627211,
+  "sha256": "424a8913f9b4db4c58ca8aa348c1ae59adb3c91123a842135b10c933451d3619",
+  "tamano": 5628208,
   "fecha": "2026-11-10",
-  "notas": "• Registro fotográfico: la evolución del paciente visita tras visita: Las fotos del paciente ahora están en una sola sección, \"📸 Registro fotográfico\", en la consulta y en la ficha. Cada foto queda atada a la visita del día y a una zona del cuerpo (por ejemplo, \"Rodilla derecha\"), y se ven ordenadas por visita, con cuántos días pasaron de una a otra. Con \"⇆ Antes y después\" se pone la misma zona de dos visitas lado a lado para ver cómo va evolucionando. Al tomar fotos con el celular se escoge la zona primero; las zonas que ya se usaron con ese paciente salen como botones. Las heridas con medidas quedan dentro de esta misma sección (\"📏 Heridas con medidas\") y sus fotos también salen en el registro.",
-  "firma": "kIC3iZbLH/SdkEdbPk7ftv01TJjxJ8VutnEe3QjMwxPxKYcX0OD9Nr+Ip00L9ZcslPh+kcpISFyXq3PdFd6PCg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.93/DR-Perla-1.0.93.drpa"
+  "notas": "• Conexión segura: las pantallas abiertas se pasan solas a https: Si se activa la conexión segura mientras una pantalla está abierta por http, ahora se recarga sola por https en vez de fallar (por ejemplo, \"No se pudo buscar\" en Actualizar). Si se pierde la comunicación con la PC principal, el mensaje ahora lo dice claro.\n• Preparar el celular para la conexión segura: Con la conexión segura activa, el celular puede decir \"Esta conexión no es privada\" al escanear el código de las fotos. En la ventana del código QR toque \"¿El celular dice Esta conexión no es privada?\": sale otro código que lleva al celular a una página con los pasos para instalar el certificado del consultorio (iPhone o Android). Se hace una sola vez por celular.",
+  "firma": "2wVAwS8DNAmuJs8GoIfZ8aYaGixYOsFeT92RcmfdVnPrmx8G95grpmLPibyGAFTJrh8dao5CoqIdYOzDlZkgAA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.94/DR-Perla-1.0.94.drpa"
 }
