@@ -1,10 +1,10 @@
 {
-  "version": "1.0.101",
+  "version": "1.0.102",
   "plataforma": "win32-x64",
-  "sha256": "540f9ab7e2a38b6bfc4111a97f5912b6e3e7ae33b98ef183272c74f0b5d15a25",
-  "tamano": 5640957,
+  "sha256": "9624c67cd6660c63b82f96cdf21c3a8d26ed9f7b5f8c6804d2b72ed977bbecc6",
+  "tamano": 5647302,
   "fecha": "2026-11-11",
-  "notas": "• Imprimir el historial completo del paciente: En la ficha del paciente hay un botón nuevo: \"🖨️ Historial completo\" (también desde el Resumen del historial). Imprime todas las consultas, una debajo de otra, cada una con motivo, síntomas, signos vitales, examen físico, diagnóstico, receta, estudios indicados, indicaciones y adendas; los resultados de laboratorio e imágenes con sus valores (los fuera de rango marcados ↑ o ↓) y los procedimientos. Se puede escoger desde y hasta qué fecha. Sale con el número de expediente y, al final, la firma y el sello del doctor (pide su código antes de imprimir).\n• Mensajería arriba en el menú: En el menú de la izquierda, Mensajería ahora está arriba, debajo de Mi día, a la vista siempre (antes estaba dentro de la sección Secretaría). El número de mensajes por atender sale al lado.",
-  "firma": "OQxu2uXkFohYRV+fa6QDqAORfQoJOkpYGaPRxge4sQ8KhdUYIMtEHLbx5Y+O92ZsfM61lJ4M0BrGC2oo3fyDCA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.101/DR-Perla-1.0.101.drpa"
+  "notas": "• Mejoras de seguridad: Tras una revisión de seguridad del programa, se reforzaron dos detalles: la tablet de pacientes ahora permite menos intentos seguidos de buscar cédulas (para que nadie se ponga a tantear cédulas de otros), y al actualizar, el programa exige que el archivo venga del servidor oficial de DR. Perla. No cambia nada en el uso diario.",
+  "firma": "bgrbi1gmcX4TBJbtFb/UEzaDY6A9JRHsdlC/8Gc9ITx/qbFqed7lIylo3DzLIYZZELCOfvrcr1Bi1d0zuVprBw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.102/DR-Perla-1.0.102.drpa"
 }
