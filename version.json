@@ -1,10 +1,10 @@
 {
-  "version": "1.0.90",
+  "version": "1.0.91",
   "plataforma": "win32-x64",
-  "sha256": "d060e8575a764820052340abae0add9261cf0e9edf2328a4764a78b26e2ab1f5",
-  "tamano": 5620795,
+  "sha256": "e7fdfbccb246233f7e5824f631648699a17064400c972da076351da8858656a2",
+  "tamano": 5624341,
   "fecha": "2026-11-10",
-  "notas": "• Cree sus propios mensajes automáticos: En Mensajería → Mensajes automáticos hay un botón nuevo: \"+ Crear mensaje automático\". Póngale nombre, escoja cuándo sale (antes de una cita, después de la consulta, cuando el paciente lleva tiempo sin venir, el día de su cumpleaños, cuando el doctor revisa un resultado o cuando vence el plazo de las analíticas), por dónde (correo, WhatsApp o los dos) y escriba el mensaje con {nombre}, {consultorio} y los demás datos. Puede hacer todos los que quiera, apagarlos, cambiarlos o borrarlos. Los que vienen con el programa siguen ahí y se pueden apagar.\n• Nuevo: mensaje a pacientes que llevan tiempo sin venir: Al crear un mensaje automático puede escoger \"Cuando lleva tiempo sin venir\": por ejemplo, a los 180 días de su última consulta, si no tiene cita pendiente, le llega un mensaje invitándolo a chequearse.",
-  "firma": "97O3pzPK26QF1rU1n34iZxmto3M1jl0nwssZFWR1gNcjEvRd6nZIG4lYGsd3TNf9rMu1F0snPXEiDGFENAcFAA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.90/DR-Perla-1.0.90.drpa"
+  "notas": "• Fotos en el expediente, tomadas con el celular: En la ficha del paciente y en la consulta hay una sección nueva: \"Fotos del expediente\". Toque \"📱 Tomar con el celular\": sale un código QR. Escanéelo con la cámara del celular (en el Wi-Fi del consultorio), toque \"📷 Tomar foto\" y \"Guardar en el expediente\": la foto aparece sola en la PC. Puede tomar varias seguidas y ponerles una nota. También se pueden subir fotos desde la PC. Las fotos se guardan cifradas en la PC del consultorio, no en el celular. El código sirve solo para ese paciente y vence a los 15 minutos. Quien subió una foto puede borrarla el mismo día; después queda en el expediente.",
+  "firma": "JY4pkLyXeQEn18uK7dWtn7sX4R0bCSnbRVNpm283qbtii89j3IwlvSO258+/qo9HWVkIGjt0jWyGv9f1TEB5AQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.91/DR-Perla-1.0.91.drpa"
 }
