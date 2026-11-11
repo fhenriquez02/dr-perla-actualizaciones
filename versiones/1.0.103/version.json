@@ -1,0 +1,10 @@
+{
+  "version": "1.0.103",
+  "plataforma": "win32-x64",
+  "sha256": "8fb0f2bcacc4b2b8944b01392eb774d71dd9c4f411ea666e3ce5ab19f95f5ed8",
+  "tamano": 5647579,
+  "fecha": "2026-11-11",
+  "notas": "• Tomar fotos con el celular: arreglado con la conexión segura: Cuando el consultorio tenía la conexión segura (https) activa, al escanear el código para tomar fotos el celular se quedaba en blanco o decía \"conexión no es privada\", porque el certificado no cubre la dirección del momento. Ahora ese código abre siempre una página normal (http) dentro de la red del consultorio: el celular ya no pide certificado. Si el teléfono avisa que \"la conexión no es segura\", toque Continuar una vez; es la red local del consultorio. El resto del programa sigue protegido con https igual que antes.",
+  "firma": "1yX2OJIcdjvtPdIq3XVoOEAq34lVCERNLjPHIMqTuLSd1pk+Yt+ieliXw+toSeODO0XeqEmMWpD7bMT+tlOOCQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.103/DR-Perla-1.0.103.drpa"
+}
