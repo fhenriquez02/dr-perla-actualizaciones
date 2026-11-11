@@ -1,0 +1,10 @@
+{
+  "version": "1.0.95",
+  "plataforma": "win32-x64",
+  "sha256": "6d7346268549bb7da3853cd2d5f1837d3790b060803d055f382e00ea37b7bfb5",
+  "tamano": 5628612,
+  "fecha": "2026-11-10",
+  "notas": "• Al imprimir, primero la firma y el sello: En la receta, la indicación de analíticas, las licencias, certificados, referimientos y los papeles de cirugía: al tocar \"Imprimir\", si todavía no se ha puesto la firma, primero se pide el código de 4 números del doctor. La ventana de impresión sale cuando la firma y el sello ya están puestos y cargados. Si se prefiere firmar con bolígrafo, se toca \"Sin firma (firmar a mano)\" y sale con la línea vacía.\n• El sello ya no se sale de la hoja: El sello ahora queda dentro del espacio de la firma, un poco encima, como sellado a mano, y no se corta por el borde derecho del papel.",
+  "firma": "/X0lKD4lMqHS/+Fj+Av6XNiJsl5ag7ZYnpjOsOqnHnskmdDeNtoHACqaLXjpizeD7lbn8hVsDBKNjudscEV9Bw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.95/DR-Perla-1.0.95.drpa"
+}
