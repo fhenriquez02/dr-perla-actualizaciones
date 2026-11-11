@@ -1,10 +1,10 @@
 {
-  "version": "1.0.84",
+  "version": "1.0.85",
   "plataforma": "win32-x64",
-  "sha256": "d0f8d36c1638e13c09847c9f6a106e7a996a49d7cf9811b853e1047b498490a4",
-  "tamano": 5616080,
+  "sha256": "33a801a9d8634f311121a1d42af054086f0b20ac247768cf09e4e6d7a12a3296",
+  "tamano": 5617507,
   "fecha": "2026-11-10",
-  "notas": "• Paciente que no pagó: queda debiendo todo: En Caja, al cobrar, hay un botón nuevo: \"🕒 No pagó: queda debiendo todo\". Pide confirmar y el paciente sale de Pendientes de cobro; lo que debe pasa a Cuentas de pacientes con su recibo de \"quedó debiendo\". Cuando pague, se le recibe como abono. No entra dinero a la caja, así que el cierre no cambia.",
-  "firma": "pgxSlQmmKJnHjG89QfE6rIICys4ARJ9aOrxseAHVaxgC8A7I7DfATAlXGY+hNIL9WHikQ3Rcu540sdlgeAXZBg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.84/DR-Perla-1.0.84.drpa"
+  "notas": "• Número de expediente (récord) de cada paciente: Cada paciente tiene su número de expediente, único y para siempre: el programa lo da al registrarlo y no cambia nunca. Ahora se ve como \"Expediente No. 000123\" en la ficha, la consulta, la lista de pacientes y las búsquedas, y sale impreso en la hoja para el paciente (receta e indicaciones), las licencias, certificados y referimientos, el resumen del historial y la hoja de cirugía. Para buscar a un paciente puede escribir su expediente con o sin ceros: 000123 o 123.",
+  "firma": "vH6u5AyILoomcVylQ0VUzVgfr7aDLny/xJkbpqvkQ16Av9DEzsDc+r9e0MpUBO2kp5zt18UkwnbFrrifhNQcDw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.85/DR-Perla-1.0.85.drpa"
 }
