@@ -1,10 +1,10 @@
 {
-  "version": "1.0.98",
+  "version": "1.0.99",
   "plataforma": "win32-x64",
-  "sha256": "6039e15fd22cbaad96a50e40cec6f6bb882c5cef2f74c91310ca39e32db760d7",
-  "tamano": 5635798,
-  "fecha": "2026-11-10",
-  "notas": "• Menú más limpio: Consulta y Secretaría se pliegan: En el menú de la izquierda, las secciones Consulta y Secretaría se abren y se cierran tocando su título. Si están cerradas, al pasar el mouse por encima salen sus opciones al lado, sin mover el resto del menú. La sección de la pantalla donde usted está se abre sola, y si una sección cerrada tiene algo pendiente (por ejemplo, pacientes en sala o por cobrar), el número sale al lado de su título. El programa recuerda cómo las dejó.\n• Configuración solo en la rueda de arriba: La lista de Configuración ya no ocupa espacio en el menú de la izquierda: todo está en el botón ⚙ Configuración de arriba a la derecha. También se encuentra escribiendo en \"Ir a…\".",
-  "firma": "JatW/7h4YgYh4YE4rvDhAASyqtgMOzsUOINBe8oiPBL3Vz4xi7KkiOKnB5W2qCdMomD3TNTTahM3AgPA8cV2BQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.98/DR-Perla-1.0.98.drpa"
+  "sha256": "880b3e2fb011a28802ef73c4e58196e1f8ea22c3ab31b6336e3eaeca6f026e32",
+  "tamano": 5636203,
+  "fecha": "2026-11-11",
+  "notas": "• \"← Volver\" regresa a la pantalla de donde vino: Arriba de los documentos médicos, la hoja para el paciente, los procedimientos, los resultados, los recibos, la ficha del paciente y otras pantallas, el enlace ahora dice \"← Volver\" y regresa a la pantalla anterior (por ejemplo, a Documentos médicos o a la Agenda de hoy), como el botón Atrás. Antes siempre llevaba a la ficha del paciente o a otra pantalla fija. Si la pantalla se abrió directo, sin una anterior, el enlace lleva al lugar de siempre.",
+  "firma": "/1k1yk1TIaHDpDpmOCUaFsPbYkr6M4wNEcI+BRQqFYGgE6Q6X6FvITt9onHdBSGNgy4GS/WPpn6WmkZE+4KFAQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.99/DR-Perla-1.0.99.drpa"
 }
