@@ -1,10 +1,10 @@
 {
-  "version": "1.0.113",
+  "version": "1.0.114",
   "plataforma": "win32-x64",
-  "sha256": "4b27614050812415c4def24de9721db12c41b5ce6b8a7dec763d92beb218c51e",
-  "tamano": 5654540,
+  "sha256": "94d91e9331adf894bd28a499684314c5defed132a32cbfc4314b6274081aa712",
+  "tamano": 5654863,
   "fecha": "2026-11-11",
-  "notas": "• Nuevo documento: Consentimiento quirúrgico: En Documentos médicos ahora se puede emitir un \"Consentimiento informado para procedimiento quirúrgico\". El doctor escribe el procedimiento, el diagnóstico, la anestesia y los riesgos propios, y el programa arma la hoja completa con las declaraciones y el fundamento legal (Constitución Art. 42.3 y Ley 42-01), más las líneas de firma del paciente o su representante, el testigo y el médico. Nota: conviene que un abogado revise el texto antes de usarlo con pacientes.",
-  "firma": "CKO7TXecFIaPuOc2Qk6PfsSaVF+QOE9+UKWsMFqf6PY0Kb1ss/lLhqEOfPW9VRuvPaijUGxYp1OoAsJkCBC1Cg==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.113/DR-Perla-1.0.113.drpa"
+  "notas": "• Arreglado: el consentimiento quirúrgico ya se puede guardar: El consentimiento quirúrgico daba un error al emitirlo porque la base de datos solo admitía los tipos de documento anteriores. Ya quedó corregido y se emite e imprime normal. Los documentos existentes se conservan.",
+  "firma": "ofo7RZ9vw6SM26Gx9VPQPdlEKAYr/CpsFnv6zFOnABNXu51psQ7yhn5yiBrDja41gXzTwIcrMIKbaIcWC4FvCQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.114/DR-Perla-1.0.114.drpa"
 }
