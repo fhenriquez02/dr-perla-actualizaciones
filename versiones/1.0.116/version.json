@@ -1,0 +1,10 @@
+{
+  "version": "1.0.116",
+  "plataforma": "win32-x64",
+  "sha256": "d1d35a65e80bf30a3f11f9a2c678ad73285970893ce253f8ea93e45d49187830",
+  "tamano": 5656364,
+  "fecha": "2026-11-11",
+  "notas": "• Caja: escribir el No. de autorización de la ARS al cobrar: Cuando la secretaria verifica el seguro en caja, ahora puede escribir ahí mismo el No. de autorización (aprobación) de la ARS, junto al monto que cubre la ARS (columna \"Cubre ARS\"). Se guarda en los cargos con seguro del paciente para la reclamación. También se puede seguir poniendo en la Llegada, como antes.",
+  "firma": "iW5H+vxXIlkpZJxNx/T8/SVOudO6rOhti4+baW4E208NF2IPStN2gpZ0kuyHf5y07K4AzMNqt423mg09nMGBBg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.116/DR-Perla-1.0.116.drpa"
+}
