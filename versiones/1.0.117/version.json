@@ -1,0 +1,10 @@
+{
+  "version": "1.0.117",
+  "plataforma": "win32-x64",
+  "sha256": "62833fe0108bb455f2ff79ae04bf91d598ec3e5687a40bc0008caf401f404537",
+  "tamano": 5656590,
+  "fecha": "2026-11-11",
+  "notas": "• La autorización puesta en caja quita el aviso en la Agenda: Cuando se escribe el No. de autorización de la ARS en caja (o se corrige en Reclamaciones), ahora también se guarda en la cita, así la Agenda de hoy y la Sala de espera dejan de mostrar \"⚠ Sin autorización\" para ese paciente. Antes solo se quitaba si se ponía en la Llegada.",
+  "firma": "l2eO/mkxnUgJWJM2nutLbZjZEHCrPLJUOojfA1LffVSNzNl/HcBHP+rsnwIu8OGAiObnpoJGXb83dIebb1A0DA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.117/DR-Perla-1.0.117.drpa"
+}
