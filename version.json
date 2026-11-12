@@ -1,10 +1,10 @@
 {
-  "version": "1.0.114",
+  "version": "1.0.115",
   "plataforma": "win32-x64",
-  "sha256": "94d91e9331adf894bd28a499684314c5defed132a32cbfc4314b6274081aa712",
-  "tamano": 5654863,
+  "sha256": "b926553868c9943471fc05b50bbbcba7c35fab98593d1975038b73c762deb5e1",
+  "tamano": 5655943,
   "fecha": "2026-11-11",
-  "notas": "• Arreglado: el consentimiento quirúrgico ya se puede guardar: El consentimiento quirúrgico daba un error al emitirlo porque la base de datos solo admitía los tipos de documento anteriores. Ya quedó corregido y se emite e imprime normal. Los documentos existentes se conservan.",
-  "firma": "ofo7RZ9vw6SM26Gx9VPQPdlEKAYr/CpsFnv6zFOnABNXu51psQ7yhn5yiBrDja41gXzTwIcrMIKbaIcWC4FvCQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.114/DR-Perla-1.0.114.drpa"
+  "notas": "• Enlazar la tablet ahora también por código QR: Al enlazar una tablet, además del código de 6 números aparece un código QR: si la tablet tiene cámara, se apunta al QR y se enlaza sola. Si no tiene cámara, se sigue escribiendo el código de 6 números a mano, como antes.\n• Ayuda organizada por bloques: La sección de Ayuda ahora agrupa los temas por bloques (Agenda y citas, Pacientes, Consulta y documentos, Caja y facturación, Seguros, Mensajería, Configuración), para encontrar más rápido lo que se busca. El buscador sigue funcionando igual.",
+  "firma": "S9oHB7kyGQMVuhLawKMKNwAU/qmQTtPJWNHjhLVZEf1QrpOQndVhczcUnyKv22EBWXsD6OAMYWyzkl/FMWoNAw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.115/DR-Perla-1.0.115.drpa"
 }

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.115",
+  "plataforma": "win32-x64",
+  "sha256": "b926553868c9943471fc05b50bbbcba7c35fab98593d1975038b73c762deb5e1",
+  "tamano": 5655943,
+  "fecha": "2026-11-11",
+  "notas": "• Enlazar la tablet ahora también por código QR: Al enlazar una tablet, además del código de 6 números aparece un código QR: si la tablet tiene cámara, se apunta al QR y se enlaza sola. Si no tiene cámara, se sigue escribiendo el código de 6 números a mano, como antes.\n• Ayuda organizada por bloques: La sección de Ayuda ahora agrupa los temas por bloques (Agenda y citas, Pacientes, Consulta y documentos, Caja y facturación, Seguros, Mensajería, Configuración), para encontrar más rápido lo que se busca. El buscador sigue funcionando igual.",
+  "firma": "S9oHB7kyGQMVuhLawKMKNwAU/qmQTtPJWNHjhLVZEf1QrpOQndVhczcUnyKv22EBWXsD6OAMYWyzkl/FMWoNAw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.115/DR-Perla-1.0.115.drpa"
+}
