@@ -1,0 +1,10 @@
+{
+  "version": "1.0.118",
+  "plataforma": "win32-x64",
+  "sha256": "d5f69462939b6db92b18d47696a9ecde40cd8607cdd298d9960d58e83a249a79",
+  "tamano": 5657195,
+  "fecha": "2026-11-11",
+  "notas": "• Ver e imprimir la relación de la ARS sin comprobante fiscal: Ahora se puede imprimir la relación de servicios de una ARS aunque todavía no tenga comprobante fiscal (NCF), para revisarla o entregarla. En \"Hacer los reportes del mes\" hay un botón \"Sin comprobante (NCF después)\", y en el reporte el botón de imprimir ya no exige la factura. La hoja sale marcada \"SIN COMPROBANTE FISCAL\", y el NCF se le puede poner después desde el mismo reporte.",
+  "firma": "oNOV1mVIF7k500T4ZHa706iASozBkLrs2tj8aYaji1+Kto1l1IuT27EvdqFDkLB783clP8by1zWTATFED7nWDg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.118/DR-Perla-1.0.118.drpa"
+}
