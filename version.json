@@ -1,10 +1,10 @@
 {
-  "version": "1.0.112",
+  "version": "1.0.113",
   "plataforma": "win32-x64",
-  "sha256": "3e02093aa78d7df38b6c38a30b67f6493d7dc56a155cdcac5163cd76aa7301ea",
-  "tamano": 5650921,
+  "sha256": "4b27614050812415c4def24de9721db12c41b5ce6b8a7dec763d92beb218c51e",
+  "tamano": 5654540,
   "fecha": "2026-11-11",
-  "notas": "• La pantalla del celular avisa si algo falla (en vez de quedarse negra): Si al abrir el código en el celular algo no carga, ahora la pantalla muestra el mensaje de lo que pasó en texto, en lugar de quedarse en negro. Esto ayuda a encontrar la causa en cada teléfono.",
-  "firma": "2TaZeS9EZX4di8EEUilaz33Q1Ux/9elq5KtC3toCBx+5mX7bDs+a3oOUCuKDTg58yNJ11gAGkcLA6M8bYf0jAQ==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.112/DR-Perla-1.0.112.drpa"
+  "notas": "• Nuevo documento: Consentimiento quirúrgico: En Documentos médicos ahora se puede emitir un \"Consentimiento informado para procedimiento quirúrgico\". El doctor escribe el procedimiento, el diagnóstico, la anestesia y los riesgos propios, y el programa arma la hoja completa con las declaraciones y el fundamento legal (Constitución Art. 42.3 y Ley 42-01), más las líneas de firma del paciente o su representante, el testigo y el médico. Nota: conviene que un abogado revise el texto antes de usarlo con pacientes.",
+  "firma": "CKO7TXecFIaPuOc2Qk6PfsSaVF+QOE9+UKWsMFqf6PY0Kb1ss/lLhqEOfPW9VRuvPaijUGxYp1OoAsJkCBC1Cg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.113/DR-Perla-1.0.113.drpa"
 }
