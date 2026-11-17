@@ -1,0 +1,10 @@
+{
+  "version": "1.0.129",
+  "plataforma": "win32-x64",
+  "sha256": "99d9a5e41daf6597c962f3f701d77e938879ba776335b5a218e9694fc9d21064",
+  "tamano": 5740454,
+  "fecha": "2026-11-17",
+  "notas": "• El paciente que se retiró: Si un paciente llegó y estaba en la sala de espera pero se tuvo que ir sin pasar a consulta, toque \"Se retiró\" (en la Agenda de hoy, junto a \"Pasar\"). Sale de la sala y de la pantalla de turnos, lo que debía de esa visita se anula, y en la lista queda marcado \"Se retiró\". Si ya había pagado, el programa avisa para devolverle el dinero en Caja.",
+  "firma": "U7VsnUGY/LIvKNyvijRut/7J76GpokbgcLSJpcxPWKU0EAHw0xVg1sfTqD2ze6r4KP6z9C9fSHpux2A3kK7MDQ==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.129/DR-Perla-1.0.129.drpa"
+}
