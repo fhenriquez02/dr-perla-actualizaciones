@@ -1,10 +1,10 @@
 {
-  "version": "1.0.127",
+  "version": "1.0.128",
   "plataforma": "win32-x64",
-  "sha256": "5a50eee2fa84747306bbcb5f13d15146873c499bd629b56d06d44929b47b603f",
-  "tamano": 5739249,
+  "sha256": "7b36088a050fd86802256131ee1da86cf3588270a2389a41f371f5dce76a2a5a",
+  "tamano": 5740038,
   "fecha": "2026-11-17",
-  "notas": "• Reportes por ARS: primero el mes, después la ARS: En Reclamaciones → Reportes por ARS se escoge el mes y salen las ARS con los pacientes atendidos ese mes y cuánto suman. Al tocar una ARS se hace su reporte de ese mes (solo lo de ese mes) y se abre para imprimirlo o ponerle la factura. Si a una le faltan datos (como el número de autorización), se ve ahí mismo y \"Completar datos\" lleva a corregirlos. Los reportes ya hechos siguen debajo con su estado de pago.",
-  "firma": "C5389lqUAhhpTptzp6bZq0/Coan1xUqrZtL/S24SjivBnbcd2MnYO55VKtaP5lOlyliA5w6gOu1yl22zw+ifCw==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.127/DR-Perla-1.0.127.drpa"
+  "notas": "• Firma de los correos: En Configuración → Correo para citas, en \"Firma de los correos\", se escribe la firma que va al final de cada correo a los pacientes (por ejemplo, el nombre del doctor y su especialidad, el WhatsApp y el horario), con una vista de cómo se verá. Si se deja vacía, se pone sola con el nombre, el teléfono y la dirección del consultorio.",
+  "firma": "SMQ+x6YZE55T/FdMq55iXiM0E8caexwuw9D6twn5fisQoyHHFVSdEAC5jMU9XylZFaIUNynFVqGmcp7Q+KFGDA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.128/DR-Perla-1.0.128.drpa"
 }
