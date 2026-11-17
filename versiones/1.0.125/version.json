@@ -1,0 +1,10 @@
+{
+  "version": "1.0.125",
+  "plataforma": "win32-x64",
+  "sha256": "282a7b7faafe0cf0de7c6c6ebc03201bd51b2d08cde3c09487f4513873e0d5ef",
+  "tamano": 5736906,
+  "fecha": "2026-11-17",
+  "notas": "• La secretaria anula sin la clave del doctor: La secretaria ya puede anular un cobro o hacer una devolución confirmando con su propia clave: ya no hace falta que el doctor escriba la suya. El doctor se lo puede quitar en Configuración → Usuarios.\n• El doctor se entera de lo que se anula: En Mi día le sale al doctor lo que otra persona anuló o devolvió hoy o ayer, con el motivo y el botón para ver el recibo.\n• Nadie puede adivinar claves: Probar muchas claves a la vez ya no salta los bloqueos: al entrar, al anular, con el código de firma del doctor y con el código para recuperar la contraseña, después de 5 intentos se bloquea.\n• Lo de cada doctor es suyo: Con varios doctores en el consultorio: la nota privada solo la ve quien la escribió, y solo el doctor que hizo la consulta o emitió el certificado o la licencia puede corregirla o anularlo.\n• Los comprobantes llegan a la DGII: El comprobante electrónico entra a la cola de envío en el mismo paso que el cobro, así nunca se gasta un número sin enviarse. Si la DGII no contesta, se reintenta solo; un comprobante con error ya no detiene a los demás, y nunca se envía dos veces el mismo.",
+  "firma": "5i7kSk8407UQwtR9SkKteKxSaruOApO97QYF03LFU5ACQgSl8fdZFrcq+Mg8StemyST35NWMvNK8zct9fCB+CA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.125/DR-Perla-1.0.125.drpa"
+}
