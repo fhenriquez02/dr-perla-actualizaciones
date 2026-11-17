@@ -1,0 +1,10 @@
+{
+  "version": "1.0.122",
+  "plataforma": "win32-x64",
+  "sha256": "d52d7b7716cfb7cd08d5d952fa7fbe9bbda701922832eed40ac2d2e32eccff3f",
+  "tamano": 5719770,
+  "fecha": "2026-11-16",
+  "notas": "• Contraseñas más difíciles de adivinar: Al poner una contraseña nueva, DR. Perla ya no acepta las más usadas (como Clave1234, contraseña1 o 12345678a), las que son solo números seguidos, ni las que llevan su usuario o su nombre. Las contraseñas que ya tiene siguen sirviendo; la regla es para las nuevas.\n• Cambiar la contraseña cierra las otras computadoras: Cuando cambia su contraseña, se cierra su sesión en cualquier otra computadora donde la hubiera dejado abierta (la pantalla donde la cambió sigue abierta). Y si alguien usa una sesión suya abierta e intenta adivinar su contraseña actual, a los 5 intentos se le cierra la sesión.",
+  "firma": "vN3d5+XxiCoGClfhgoR/pdMXcnFKg1Yw9+oiLWzUxFdyF+HIT1F22MveXNY3ribzowXvQDZD+EaK9ga1e2GjAg==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.122/DR-Perla-1.0.122.drpa"
+}
