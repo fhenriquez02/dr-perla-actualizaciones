@@ -1,0 +1,10 @@
+{
+  "version": "1.0.130",
+  "plataforma": "win32-x64",
+  "sha256": "39a3786bef2f04286efc2d603612c7b03d0de139920e3a2b5181dd7b239e53e0",
+  "tamano": 5742022,
+  "fecha": "2026-11-18",
+  "notas": "• Guarde su clave de recuperación: La clave de recuperación es lo único que abre los datos de los pacientes si la PC se daña o se pierde. Hasta que confirme que la guardó, le sale un aviso en el Inicio. Si no la guardó al instalar, ahora puede volver a verla e imprimirla en Configuración → Clave de recuperación: solo el doctor, en la PC principal y escribiendo otra vez su contraseña. Cada vez que se ve queda anotado en la bitácora.",
+  "firma": "iWVnod5Tg11ie92nbxMC0/tXvCwDok1ZWqPcCLR/f1CkeeMzzMCAKsP3AHj6T5fYn7e519Z+kH5Z/BcC7vZPDA==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.130/DR-Perla-1.0.130.drpa"
+}
