@@ -1,10 +1,10 @@
 {
-  "version": "1.0.130",
+  "version": "1.0.131",
   "plataforma": "win32-x64",
-  "sha256": "39a3786bef2f04286efc2d603612c7b03d0de139920e3a2b5181dd7b239e53e0",
-  "tamano": 5742022,
+  "sha256": "bdafd47c0561ee75e90cf4838d268562a82bd881e5464d537bf3c687e20e81cd",
+  "tamano": 5742017,
   "fecha": "2026-11-18",
-  "notas": "• Guarde su clave de recuperación: La clave de recuperación es lo único que abre los datos de los pacientes si la PC se daña o se pierde. Hasta que confirme que la guardó, le sale un aviso en el Inicio. Si no la guardó al instalar, ahora puede volver a verla e imprimirla en Configuración → Clave de recuperación: solo el doctor, en la PC principal y escribiendo otra vez su contraseña. Cada vez que se ve queda anotado en la bitácora.",
-  "firma": "iWVnod5Tg11ie92nbxMC0/tXvCwDok1ZWqPcCLR/f1CkeeMzzMCAKsP3AHj6T5fYn7e519Z+kH5Z/BcC7vZPDA==",
-  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.130/DR-Perla-1.0.130.drpa"
+  "notas": "• Orden por dentro y una fecha corregida: Se ordenó el programa por dentro y se le agregaron pruebas automáticas, para que los próximos cambios sean más seguros. Además, las fotos del expediente ya calculan \"hoy\" con la hora de República Dominicana, también en una computadora con otra zona horaria.",
+  "firma": "hgri2F/YDHYegNE1Y8h8MB5JxWL9wCcMQHvtlKaCVQ2+e5GRd49HDlXxxzoKqCCK2yY9ZloLoK2VULao6L5qAw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.131/DR-Perla-1.0.131.drpa"
 }

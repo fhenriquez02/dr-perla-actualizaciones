@@ -1,0 +1,10 @@
+{
+  "version": "1.0.131",
+  "plataforma": "win32-x64",
+  "sha256": "bdafd47c0561ee75e90cf4838d268562a82bd881e5464d537bf3c687e20e81cd",
+  "tamano": 5742017,
+  "fecha": "2026-11-18",
+  "notas": "• Orden por dentro y una fecha corregida: Se ordenó el programa por dentro y se le agregaron pruebas automáticas, para que los próximos cambios sean más seguros. Además, las fotos del expediente ya calculan \"hoy\" con la hora de República Dominicana, también en una computadora con otra zona horaria.",
+  "firma": "hgri2F/YDHYegNE1Y8h8MB5JxWL9wCcMQHvtlKaCVQ2+e5GRd49HDlXxxzoKqCCK2yY9ZloLoK2VULao6L5qAw==",
+  "archivo": "https://raw.githubusercontent.com/fhenriquez02/dr-perla-actualizaciones/main/versiones/1.0.131/DR-Perla-1.0.131.drpa"
+}
